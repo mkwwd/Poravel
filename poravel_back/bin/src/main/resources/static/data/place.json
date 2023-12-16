@@ -1,0 +1,24 @@
+{
+    "item": [
+        {
+            "addr": "서울",
+            "title": "서울숲",
+            "image": "http://tong.visitkorea.or.kr/cms/resource/00/2611300_image2_1.bmp"
+        },
+        {
+            "addr": "부산",
+            "title": "엑스더스카이",
+            "image": "http://tong.visitkorea.or.kr/cms/resource/72/2668972_image2_1.bmp"
+        },
+        {
+            "addr": "광주",
+            "title": "광주천 벚꽃길",
+            "image": "http://tong.visitkorea.or.kr/cms/resource/99/2793199_image2_1.jpg"
+        },
+        {
+            "addr": "제주도",
+            "title": "천지연폭포",
+            "image": "http://tong.visitkorea.or.kr/cms/resource/96/2612496_image2_1.jpg"
+        }
+    ]
+}

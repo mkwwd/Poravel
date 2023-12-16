@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ssafy.board.model.mapper.BoardMapper">
+
+	<sql id="search">
+		<if test="word != null and word != ''">
+			<if test="key == 'subject'">
+				and subject like concat('%', #{word}, '%')
+			</if>
+			<if test="key != 'subject'">
+				and ${key} = #{word}
+			</if>
+		</if>
+	</sql>
+	
+
+	<select id="ListArticle" parameterType="map" resultType="boardDto">
+		select article_pk, article_no, subject, content, user_id, hit, register_time, article_type 
+		from board
+		where article_type=#{article_type} 
+		<include refid="search"></include>
+		order by article_no desc
+		limit #{stt_board_num}, #{list_size}
+	</select>
+	
+	<select id="totalArticleCount" parameterType="map" resultType="int">
+		select count(*)
+		from board
+		where article_type=#{article_type} 
+		<include refid="search"></include>
+	</select>
+	
+	
+	
+	<insert id="writeArticle" parameterType="boardDto">
+		insert into board (article_no, subject, content, user_id, hit, article_type)
+		value (
+			coalesce(
+				(
+					SELECT max(article_no)+1
+					FROM board AS b
+					WHERE b.article_type=#{article_type}
+				),
+				1
+			),
+			#{subject},
+			#{content},
+			#{user_id},
+			0,
+			#{article_type}
+		);
+	</insert>
+	
+	<select id="detailArticle" parameterType="map" resultType="boardDto">
+		select * 
+		from board
+		where article_pk=#{article_pk}
+	</select>
+	
+	<select id="detailAnswer" parameterType="string" resultType="answerDto">
+		select *
+		from qna_reply
+		where article_pk=#{article_pk}
+	</select>
+	
+	<update id="increaseHit" parameterType="string">
+		update board
+		set hit = hit+1
+		where article_pk=#{article_pk}
+	</update>
+	
+	<update id="updateArticle" parameterType="boardDto">
+		update board
+		set subject = #{subject}, content = #{content}
+		where article_pk = #{article_pk}
+	</update>
+	
+	<delete id="deleteArticle" parameterType="string">
+		delete
+		from board
+		where article_pk = #{article_pk}
+	</delete>
+	
+	<insert id="writeAnswer" parameterType="AnswerDto">
+		insert into qna_reply (article_pk, content, user_id)
+		value (#{article_pk}, #{content}, #{user_id})
+	</insert>
+	
+	<update id="updateAnswer" parameterType="AnswerDto">
+		update qna_reply
+		set content=#{content}
+		where reply_pk=#{reply_pk}
+	</update>
+	
+	<delete id="deleteAnswer" parameterType="AnswerDto">
+		delete
+		from qna_reply
+		where reply_pk=#{reply_pk}
+	</delete>
+
+	
+	
+</mapper>

@@ -1,0 +1,16 @@
+:root {
+    --color-brown-100: #89574c;
+    --color-brown-90: rgba(137, 87, 76, 0.9);
+    --color-brown-80: rgba(137, 87, 76, 0.8);
+    --color-brown-70: rgba(137, 87, 76, 0.7);
+    --color-brown-60: rgba(137, 87, 76, 0.6);
+    --color-brown-50: rgba(137, 87, 76, 0.5);
+    --color-brown-40: rgba(137, 87, 76, 0.4);
+    --color-brown-30: rgba(137, 87, 76, 0.3);
+    --color-brown-20: rgba(137, 87, 76, 0.2);
+    --color-brown-10: rgba(137, 87, 76, 0.1);
+    --color-bg: #faf8f7;
+
+    /* x,y,blur,spread,color,inset */
+    --shadow: rgba(112, 144, 176, 0.25);
+}

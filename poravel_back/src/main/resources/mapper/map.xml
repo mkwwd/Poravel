@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ssafy.map.model.mapper.MapMapper">
+
+	<select id="sidoList" resultType="SidoDto">
+		select *
+		from sido
+	</select>
+
+	<select id="categoryList" resultType="map">
+		select *
+		from category
+	</select>
+	
+	
+	<sql id="sido">
+		<if test="sido_code > 0">
+			and sido_code=#{sido_code}
+		</if>
+	</sql>
+	
+	<select id="attractionCategoryList" parameterType="AttractionDto" resultType="AttractionDto">
+		select content_id, title, addr1, first_image, latitude, longitude
+		from attraction_info
+		where category_pk=#{category_pk}
+		<include refid="sido"></include>
+	</select>
+	
+	<select id="attractionSearchList" parameterType="string" resultType="AttractionDto">
+		select content_id, title, addr1, first_image, latitude, longitude
+		from attraction_info
+		where title like concat('%',#{title},'%')
+	</select>
+	
+	<select id="attractionDetail" parameterType="int" resultType="AttractionDto">
+		select i.content_id, i.title, i.addr1, i.first_image, i.latitude, i.longitude, d.overview
+		from attraction_info i join attraction_description d
+		on i.content_id = d.content_id
+		where i.content_id=#{content_id}
+	</select>
+	
+	
+	
+</mapper>

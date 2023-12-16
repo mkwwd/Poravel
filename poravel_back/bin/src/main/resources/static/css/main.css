@@ -1,0 +1,203 @@
+/* nav 내용 */
+#welcomeName {
+	color: white;
+}
+/* */
+* {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 900px;
+}
+
+.pop-up {
+    position: absolute;
+    width: 280px;
+    top: 300px;
+    right: 200px;
+}
+
+/* 관광지 정보 */
+
+.section1 {
+    height: 1200px;
+}
+
+.section1 h2 {
+    margin-top: 70px;
+    margin-bottom: 150px;
+    text-align: center;
+    font-size: 70px;
+}
+
+.info-indi-btn {
+    margin: 3px 3px 20px;
+    font-size: 30px;
+    color: gray;
+    background-color: #fff;
+    border-style: none;
+}
+
+#card {
+    cursor: pointer;
+    padding: 0;
+    height: 400px;
+    box-shadow: 0px 0px 30px -10px;
+}
+
+#card img {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.card-body {
+    position: absolute;
+    width: 100%;
+    height: 15%;
+    padding: 10px;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    transition: height 1s;
+}
+
+.card-title {
+    font-size: 25px;
+    color: white;
+}
+
+.card-text {
+    font-size: 18px;
+    color: white;
+    display: none;
+}
+
+.card-body:hover {
+    height: 30%;
+}
+
+.card-body:hover .card-text {
+    display: block;
+}
+
+/* 스크롤 효과 */
+
+.card-up {
+    opacity: 0;
+    transition: all 0.5s ease;
+    transform: translate(0, 100px);
+}
+
+.card-up.show {
+    opacity: 1;
+    transform: none;
+}
+
+.info-indi-btn:hover,
+.info-indi-btn:focus,
+.info-indi-btn.active {
+    color: black;
+    border-bottom: 1px solid #0d6efd;
+}
+
+/* 폴라로이드 */
+
+.section2 {
+    height: 1200px;
+}
+
+.memory-title {
+    margin-bottom: 5px;
+}
+
+.memory-title a {
+    color: gray;
+    font-size: 70px;
+}
+
+.memory-sub {
+    font-size: 20px;
+}
+
+.polaroid img {
+    width: 350px;
+    height: 300px;
+}
+.wrapper {
+    width: 100%;
+    padding: 0 2rem;
+    text-align: center;
+}
+.polaroid {
+    z-index: 1;
+    background: #fff;
+    padding: 1rem;
+    box-shadow: 0 0.25rem 1rem rgba(0, 0, 0, 0.2);
+}
+
+.caption {
+    margin-top: 10px;
+    font-family: "Indie Flower", cursive;
+    font-size: 1.125rem;
+    text-align: center;
+    line-height: 2em;
+}
+
+.pol-item {
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+    margin-top: 2rem;
+    filter: grayscale(100%);
+}
+
+.pol-item:nth-child(1) {
+    transform: rotate(5deg);
+    transition: all 0.35s;
+}
+
+.pol-item:nth-child(2),
+.pol-item:nth-child(6) {
+    transform: rotate(-10deg);
+    transition: all 0.35s;
+}
+
+.pol-item:nth-child(3),
+.pol-item:nth-child(5) {
+    transform: rotate(3deg);
+    transition: all 0.35s;
+}
+
+.pol-item:nth-child(4) {
+    transform: rotate(15deg);
+    transition: all 0.35s;
+}
+
+.pol-item:hover {
+    z-index: 3;
+    filter: none;
+    transform: scale(1.2, 1.2) rotate(0deg) !important;
+    transition: all 0.35s;
+}
+
+.polaroid:hover {
+    z-index: 3;
+}
+
+/* section 3 */
+.section3 {
+    height: 1200px;
+}
+
+/* section 4 */
+.section4 {
+    height: 1200px;
+}
+
+/** footer 영역 */

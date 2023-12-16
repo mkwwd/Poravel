@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ssafy.image.model.mapper.ImageMapper">
+
+	<select id="ViewImage" parameterType="map" resultType="ImageDto">
+		select save_folder, saved_name
+		from image
+		where type=#{type} and type_pk=#{type_pk}
+	</select>
+	
+	<insert id="insertImage" parameterType="ImageDto">
+		insert into image(type, type_pk, save_folder, org_name, saved_name)
+		values (#{type}, #{type_pk}, #{save_folder}, #{org_name}, #{saved_name})
+	</insert>
+	
+	<update id="updateImage" parameterType="ImageDto">
+		update image
+		set org_name=#{org_name}, saved_name=#{saved_name}, save_folder=#{save_folder}
+		where type=#{type} and type_pk=#{type_pk}
+	</update>
+	
+	<select id="searchAmountImage" parameterType="map" resultType="int">
+		select count(*)
+		from image
+		where type=#{type} and type_pk=#{type_pk}
+	</select>
+	
+	
+	
+	
+</mapper>

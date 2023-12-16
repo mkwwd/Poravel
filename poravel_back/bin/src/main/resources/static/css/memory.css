@@ -1,0 +1,76 @@
+.memory-main {
+    margin-bottom: 100px;
+}
+
+/* 폴라로이드 */
+.memory-title {
+    margin-bottom: 5px;
+}
+
+.memory-title a {
+    color: gray;
+    font-size: 70px;
+}
+
+.memory-sub {
+    font-size: 20px;
+}
+
+.polaroid-img {
+    width: 350px;
+    height: 300px;
+}
+.wrapper {
+    width: 100%;
+    padding: 0 2rem;
+    text-align: center;
+}
+
+.polaroid {
+    z-index: 1;
+    background: #fff;
+    padding: 1rem;
+    box-shadow: 0 0.25rem 1rem rgba(0, 0, 0, 0.2);
+}
+
+.plus .polaroid-img {
+    position: relative;
+    filter: opacity(50%);
+}
+
+.caption {
+    margin-top: 10px;
+    font-family: "Indie Flower", cursive;
+    font-size: 1.125rem;
+    text-align: center;
+    line-height: 2em;
+}
+
+.pol-item {
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+    margin-top: 2rem;
+}
+
+.pol-item:hover {
+    z-index: 3;
+    filter: none;
+    transform: scale(1.2, 1.2) rotate(0deg) !important;
+    transition: all 0.35s;
+}
+
+.polaroid:hover {
+    z-index: 3;
+}
+
+.addBtn {
+    z-index: 10;
+    position: absolute;
+    display: block;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -80%);
+    width: 50px;
+    height: 50px;
+}

@@ -1,0 +1,24 @@
+{
+    "hotel": [
+        {
+            "addr": "강릉",
+            "title": "부티끄 호텔 봄봄",
+            "image": "http://tong.visitkorea.or.kr/cms/resource/10/2950310_image2_1.jpg"
+        },
+        {
+            "addr": "홍대",
+            "title": "게더링 앳 홍대1",
+            "image": "https://tong.visitkorea.or.kr/cms/resource/93/2571393_image2_1.PNG"
+        },
+        {
+            "addr": "경주",
+            "title": "감포한옥펜션",
+            "image": "http://tong.visitkorea.or.kr/cms/resource/63/2568463_image2_1.jpg"
+        },
+        {
+            "addr": "강원도",
+            "title": "고현당",
+            "image": "http://tong.visitkorea.or.kr/cms/resource/42/2571842_image2_1.jpg"
+        }
+    ]
+}

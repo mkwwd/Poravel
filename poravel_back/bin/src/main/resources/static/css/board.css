@@ -1,0 +1,13 @@
+.form-check-label {
+    color: gold;
+}
+
+td.star {
+    color: gold;
+}
+
+.divider {
+    width: 13%;
+    margin: 0rem auto 2rem;
+    border-top: .5rem solid #59b3f7;
+}

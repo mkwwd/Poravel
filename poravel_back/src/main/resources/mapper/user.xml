@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ssafy.user.model.mapper.UserMapper">
+
+	<select id="loginUser" parameterType="userDto" resultType="userDto">
+		select user_id, user_name
+		from user
+		where user_id = #{user_id} and user_password = #{user_password}
+	</select>
+	
+	<insert id="joinUser" parameterType="userDto">
+		insert into user (user_id, user_password, user_name, address, address_detail, zip_code, email_id, email_domain, phone_num, user_grade)
+		values (#{user_id}, #{user_password}, #{user_name}, #{address}, #{address_detail}, #{zip_code}, #{email_id}, #{email_domain}, #{phone_num}, "user")
+	</insert>
+	
+	<select id="idCheck" parameterType="String" resultType="int">
+		select count(user_id)
+		from user
+		where user_id = #{user_id}
+	</select>
+	
+	<select id="userInfo" parameterType="String" resultType="userDto">
+		select user_id, user_name, phone_num, email_id, email_domain, address, address_detail, zip_code, user_grade
+		from user
+		where user_id = #{user_id}
+	</select>
+	
+	<update id="saveRefreshToken" parameterType="map">
+		update user
+		set token = #{token}
+		where user_id = #{userId}
+	</update>
+	
+	<update id="deleteRefreshToken" parameterType="string">
+		update user
+		set token = null
+		where user_id = #{userId}
+	</update>	
+	
+	<update id="userInfoUpdate" parameterType="map">
+		update user
+		<set>
+			<if test="phone_num != null and phone_num != ''">phone_num=#{phone_num},</if>
+			<if test="email_id != null and email_id != ''">email_id=#{email_id},</if>
+			<if test="email_domain != null and email_domain != ''">email_domain=#{email_domain},</if>
+			<if test="address != null and address != ''">address=#{address},</if>
+			<if test="address_detail != null and address_detail != ''">address_detail=#{address_detail},</if>
+			<if test="zip_code != null and zip_code != ''">zip_code=#{zip_code},</if>
+			<if test="user_password != null and user_password != ''">user_password=#{user_password},</if>
+		</set>
+		where user_id=#{user_id}
+	</update>
+	
+	<delete id="AccountCancellation" parameterType="String">
+		delete from user
+		where user_id=#{user_id}
+	</delete>
+	
+	<select id="getRefreshToken" parameterType="string" resultType="string">
+		select token
+		from user
+		where user_id = #{user_id}
+	</select>
+	
+	<select id="userCheck" parameterType="userDto" resultType="int">
+		select count(*)
+		from user
+		where user_id=#{user_id} and user_password=#{user_password}
+	</select>
+	
+	<select id="FindUserId" parameterType="userDto" resultType="userDto">
+		select user_id
+		from user
+		where user_name=#{user_name} and email_id=#{email_id} and email_domain=#{email_domain}
+	</select>
+	
+	<select id="FindUserPw" parameterType="userDto" resultType="userDto">
+		select user_password, email_id, email_domain, user_name
+		from user
+		where user_id=#{user_id} and email_id=#{email_id} and email_domain=#{email_domain}
+	</select>
+	
+	<select id="UserGrade" parameterType="string" resultType="userDto">
+		select user_grade
+		from user
+		where user_id=#{user_id}
+	</select>
+	
+	<select id="ListBookMark" parameterType="String" resultType="BookMarkDto">
+		 select *
+		 from bookmark b join attraction_info a
+		 on b.content_id = a.content_id 
+		 where b.user_id=#{user_id}
+	</select>
+	
+	<select id="ListMemoryDto" parameterType="String" resultType="memoryDto">
+		select *
+		from memory
+		where user_id=#{user_id};
+	</select>
+	
+	
+</mapper>
