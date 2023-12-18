@@ -192,5 +192,20 @@
 - 해당 장소의 위치와 사진, 장소명, 다녀온 날짜, 한줄평에 대한 정보를 볼 수 있습니다.
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/7113df9c-bef6-4314-a462-1f4219a5462b/Untitled.png?id=3a2acaa1-720c-4d1c-9852-fb43c6a0a512&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=xzvCM2vTrndXH32WJy-GJCHITWd7Slb3qf0zE3JwHZg&downloadName=Untitled.png">
 
+### 여행지 정보 조회
+#### Kakao Map 기반 여행지 리스트 조회
+- 여행지 리스트 조회 기능입니다.
+- 상단 체크박스 라인에서 조회하고 싶은 지역과 명소 Type을 선택하면 선택한 정보에 해당하는 여행지 리스트가 하단에 나타나며, 해당 여행지들의 위치가 지도에 나타납니다.
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/befb5add-f3e9-4846-9127-61cd9f4b988c/Untitled.png?id=503bcc92-c54d-43cf-b045-d7e5d98d48f1&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=05v1GERKu6Nmp-8apNMhxJCKUVv_lr78N2ExgQNVJWk&downloadName=Untitled.png">
+- 하단 여행지 리스트에서 보고싶은 여행지에 마우스를 올리면 해당 여행지의 위치로 지도가 이동됩니다.
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/236ec5e6-5853-4931-b567-98b04a1ff397/Untitled.png?id=8e12f60d-bd58-480a-8d8b-b9784095354c&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=EE6NYfkPj9CXGwh2nouuqhhfs2VO-NacWaB5iq4zi70&downloadName=Untitled.png">
+
+#### 여행지 정보 상세 조회
+- 여행지 정보 상세 조회 화면입니다.
+- 여행지명, 여행지에 대한 설명, 이미지, 위치에 대한 정보 조회가 가능합니다.
+- 다른 사용자가 이 여행지를 태그하여 작성하였던 Memory를 조회할 수 있습니다.
+- 여행지에 대한 리뷰 작성이 가능합니다.
+- 왼쪽에 있는 메뉴바의 “장소 담아두기”를 클릭하면 해당 여행지를 북마크에 추가할 수 있습니다.
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/0bbd4bb6-566e-4c75-a6b6-070171bf7635/Untitled.png?id=4186f0c2-56e3-44b7-ac2e-ad3df09c333d&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=RqwgPs-Xkt0aEEHRXu1jemmIyy4tCYacpUpMp8b__ME&downloadName=Untitled.png">
 
 
