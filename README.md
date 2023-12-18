@@ -90,5 +90,5 @@
 ## 7️⃣ 화면 구성
 ### 메인 화면
 - 메인페이지 화면입니다. 여행 감성을 자극하는 사진 및 문구와 사용자들이 공유한 여행지 사진 및 문구를 보여주는 페이지로 구성되어 있습니다.
-<img src="">
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/4e569848-4fd0-4b9d-82c3-da92fb19df96/Untitled.png?id=467689af-8217-4557-86f2-75dc3ba2f78f&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=l3hCmCemKP21de4K-TwVdKjYCcGBoBUzJTMzSIOuBIg&downloadName=Untitled.png">
 
