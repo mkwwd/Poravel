@@ -72,9 +72,16 @@
 
 ## 5️⃣ 설계 산출물
 ### ERD [🔗Link](https://www.erdcloud.com/d/QycMXTZ4XjDRxMhCd)
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/1770bf8f-086e-47a8-a4c1-4d21bee8dad4/Untitled.png?id=55f00106-8b13-4f14-96a9-aaf848971abb&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=e2aQLOsm7-20wNT0C6MsChXFFn6XSIOiLOipTafZCwI&downloadName=Untitled.png">
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/1770bf8f-086e-47a8-a4c1-4d21bee8dad4/Untitled.png?id=55f00106-8b13-4f14-96a9-aaf848971abb&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=e2aQLOsm7-20wNT0C6MsChXFFn6XSIOiLOipTafZCwI&downloadName=Untitled.png" width="800">
 <br>
 
 ### Use Case [🔗Link](https://app.diagrams.net/#G1CdpXz7Za8EWyvoZVli5oD4wuxmdHhaiR)
-<img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa9e95446-d49f-4247-b0b1-e1e67493883e%2F55e07e57-216d-45ed-a294-403ce371d5e0%2FUntitled.png?table=block&id=2562c188-84a5-44de-b092-87bfccf1d7ac&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&width=1730&userId=2e0b4d86-2376-4371-bbfd-ca67c8f241de&cache=v2">
+<img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa9e95446-d49f-4247-b0b1-e1e67493883e%2F55e07e57-216d-45ed-a294-403ce371d5e0%2FUntitled.png?table=block&id=2562c188-84a5-44de-b092-87bfccf1d7ac&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&width=1730&userId=2e0b4d86-2376-4371-bbfd-ca67c8f241de&cache=v2" width="800">
 <br>
+
+### Mockup Page [🔗Link](https://www.figma.com/file/WZJikB19t1QMi5FE34o6SE/Trip?type=design&node-id=0-1&mode=design)
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/eaeb61b7-8170-48a4-97e8-a5fe16835448/Untitled.png?id=42ccd491-0120-4be5-a6ca-4e93e4b70aae&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=iyuZgsdlN73VnlmvCr7mwGPrJpq5BCxGjmqaIspeGQU&downloadName=Untitled.png" width="800">
+<br><br>
+
+## 6️⃣ 주요기능
+![image](https://github.com/koreamarin/Poravel/assets/110477854/3a82fc47-fdba-4de3-9a3c-6cc12c57a0a0)
