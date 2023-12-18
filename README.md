@@ -123,7 +123,6 @@
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/07e1e94c-15b6-470f-af16-0f19b85d17ae/Untitled.png?id=0c820737-3da8-4dc8-8586-7edad297ed4c&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=sns9zoV8q79Lrc_xRFnwBk-wO9WuH2JQlmYsyTxVRSY&downloadName=Untitled.png">
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/68d4afde-efdd-480f-a3c0-149a900053cc/Untitled.png?id=8f3c0ebd-2908-4c78-9ed9-6f4e6ec4eb0a&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=ynThW4ftaEVrPDpCLHy15T_9UKYYvLcqSVRDSj41bB0&downloadName=Untitled.png">
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/d24b3caf-3c04-43bc-8bd8-e950dc05b044/Untitled.png?id=9ee59c26-1e60-4388-97c3-c49074cf589f&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=-y_E3p9ECHvBbBReZu-Bx5xCWjenY6mAMEztfTJfv_8&downloadName=Untitled.png">
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/d24b3caf-3c04-43bc-8bd8-e950dc05b044/Untitled.png?id=9ee59c26-1e60-4388-97c3-c49074cf589f&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=-y_E3p9ECHvBbBReZu-Bx5xCWjenY6mAMEztfTJfv_8&downloadName=Untitled.png">
 <br>
 
 #### 마이페이지 조회
