@@ -126,17 +126,11 @@
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/d24b3caf-3c04-43bc-8bd8-e950dc05b044/Untitled.png?id=9ee59c26-1e60-4388-97c3-c49074cf589f&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=-y_E3p9ECHvBbBReZu-Bx5xCWjenY6mAMEztfTJfv_8&downloadName=Untitled.png>
 <br>
 
-#### 마이페이지 조회
+### 마이페이지 조회
 - 마이페이지 화면 입니다.
 - 간단한 회원정보를 조회할 수 있습니다.
 - 북마크 설정하였던 여행지를 리스트 형태로 조회가능하며, 여행지 상세보기 또한 가능합니다.
 - 이전에 작성하였던 Memory를 리스트 형태로 조회가능하며, 상세보기 또한 가능합니다.
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/d164dbca-f6e8-4f1d-b258-44c1bcf48713/Untitled.png?id=a384f2c3-4378-452f-bb55-46a195e8deba&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=bEgGZU4Ej_uWgtIFkGXwvup4h50tqYOMWBIXT4i4pl8&downloadName=Untitled.png">
-
-
-
-
-
-
 
 
