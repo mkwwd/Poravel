@@ -137,7 +137,34 @@
 #### 회원정보 수정
 - 회원정보 수정 페이지로 이동하기 전, 비밀번호를 요구합니다.
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/6554b1eb-c7bb-4202-b67b-e27c483465b1/Untitled.png?id=e34e0536-e5d5-4cef-8962-181b95f4bd35&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=UPbmx4lftVOaMZDDM1uyYXvd_knSFkWKpt6FxSaX9TY&downloadName=Untitled.png">
+<br>
+
 - 회원정보 리스트가 나와있으며, 수정 또는 회원 탈퇴가 가능한 페이지 입니다.
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/143eae2c-12a7-45bc-8cce-24189c13478d/Untitled.png?id=23310adf-0d6f-41c7-815e-788d8bd5bf42&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=aqGbZvCTtyWW9swti4VwvOQCPtMWv3feVbybVFM9eSM&downloadName=Untitled.png">
 <br>
+
+### 게시판 화면
+#### 공지사항 게시판
+- 공지사항 게시판 리스트 화면 입니다. 일반유저는 조회만 가능하며, 공지사항 게시판 작성은 관리자 회원만 가능합니다.
+- 찾고자 하는 게시판의 글번호, 제목, 작성자 아이디로 검색 조회가 가능합니다.
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/dd765729-2c06-4ede-b9bf-4692639db1fc/Untitled.png?id=e05512cf-6ae9-442d-8e45-dab817d83148&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=vYi3xkltICsZa04HoVv8z929aQbsM4du_0srPuq7geU&downloadName=Untitled.png">
+<br>
+
+- 공지사항 게시판 상세조회 화면입니다. 일반유저는 조회만 가능하며, 게시판 수정 및 삭제는 관리자 회원만 가능합니다.
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/68f0f9df-6ed3-46ba-a0cf-5e48a41ec65a/Untitled.png?id=2127bccc-de49-423a-ba53-64f59d0ac28a&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=8xJY8W-jwMyE5JV7eDY77r_zly8Fyme-fnAap2C50gE&downloadName=Untitled.png">
+<br>
+
+#### QnA 게시판
+- QnA 게시판 리스트화면 입니다. 일반 유저도 글 작성이 가능합니다.
+- 찾고자 하는 게시판의 글번호, 제목, 작성자 아이디로 검색 조회가 가능합니다.
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/2acde9b5-bb72-436e-b862-5f8c012a87ad/Untitled.png?id=1edb4586-48ad-4b82-bf10-022db92d94e4&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=N58gpmOioJKrhrx6w9__VkMll-51swQsnCVg8fTW3L4&downloadName=Untitled.png">
+- QnA 게시판 작성 화면 입니다.
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/42a09bf4-8507-4699-ad80-8177f4c2fb5d/Untitled.png?id=b88c257d-0858-4292-822b-3b62b7c2d0a0&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=Xh_0Ebr0NYGdi6ovUTleUBAJ201ZIx4VUXiUXqWYedU&downloadName=Untitled.png">
+- QnA 게시판 상세조회 화면 입니다.
+    - QnA 게시판의 답글을 등록할 수 있으며, 답글입력은 관리자 회원만 가능합니다.
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/9f2b0d0c-5cdc-436f-bb46-71a1df5e9e92/Untitled.png?id=63010045-a62a-40c3-8ee1-5bfa72a2fa5f&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=3RUrjF_zPpdL0Ez7JUuwlKM_iuDSXZcKb5j2Bv9XMKw&downloadName=Untitled.png">
+
+### Memory
+#### Memory 리스
+
 
