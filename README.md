@@ -36,14 +36,14 @@
 <br><br>
 
 ## 2️⃣ 기술/환경
-#### FrontEnd
+#### FrontEnd 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 #### BackEnd
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-3C3C3C?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white"> 
 #### DataBase
 <img src="https://img.shields.io/badge/NCloude DB-03C75A?style=flat-square&logo=Naver&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 #### API
-<img src="https://img.shields.io/badge/Kakao Map API-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/> <img src="https://img.shields.io/badge/Kakao MapJs API-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Kakao Map API-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/> <img src="https://img.shields.io/badge/Kakao MapJs API-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/> 
 #### Tools
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <br><br>
@@ -94,10 +94,10 @@
 <br><br>
 
 ## 7️⃣ 화면 구성
-## 🛠️ 메인 화면 🛠️
+## 🛠️ 메인 🛠️
 🌟 메인페이지 화면입니다. 감성을 자극하는 사진 및 문구와 사용자들이 공유한 사진 및 정보를 보여주는 페이지로 구성되어 있습니다.
  
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/b47f6a1a-de56-4139-8448-a32f2947ec1b/main.gif?id=a30e63ea-d49f-4f3e-babb-525b45f92807&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703008800000&signature=75NeahsKkG3NR0HQ-1mEt-iRmuYrbW0MFM0h_caGqcY&downloadName=main.gif" width="900">
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/796e079b-51d1-4de0-9f48-c1d77d3141a3/main.gif?id=b68b2777-7ab6-495b-b3ac-11eedbdc790e&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703023200000&signature=VXBx512sZBJ5fy3XrzK8mRqw_3h0idQ4jv-PGvQ3-nQ&downloadName=main.gif" width="900">
 
 ✏️ Memory페이지에 등록된 사진 중 조회수가 높은 6개의 사진을 보여줍니다. <br>
 ✏️ 사진을 누르면 사진 뒷면에서 간략한 정보를 볼 수 있습니다. <br>
@@ -131,21 +131,40 @@
 ✏️ 회원의 아이디와 이메일을 입력하면 비밀번호를 이메일로 발송하여 줍니다. <br>
 <br>
 
-### 🔒 회원가입 화면
+### 🔒 회원가입 
 🌟 회원가입 화면입니다.
-🌟 회원가입을 위해 필요한 사용자정보입력란과 공식적인 주소 입력을 위해 Kakao Api를 이용하여 주소 찾아서 입력하도록 구성되어 있습니다.
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/174e6c44-976c-4312-a8f5-e208b28e0b1a/Untitled.png?id=feea2f98-7d4e-4e06-bc4e-4aa861a28e4b&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=pMuwZ7iS_1Oh_j6P7ZYmOfJw14VThU0q1TvaNq97ErY&downloadName=Untitled.png" width="900">
+
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/bfc5a469-f63f-4cb8-b711-74627eeffb08/join.png?id=3fd0998c-1057-44d6-93e1-da155bea93a5&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703016000000&signature=ci2qMCZBk1QQ5RRuI-vveh7GowJKgc57AjDrTYrIly0&downloadName=join.png" width="900">
+
+🌟 실행
+
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/bb0a4604-44fb-475e-bafc-da5c178afe66/join.gif?id=410bbe93-6156-402c-8874-12d556a99e25&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703023200000&signature=eqD550y8ay6-EoHaDgtqjeMRJtUUR-VLtrw8pl0XrWc&downloadName=join.gif" width="900">
+
+
+✏️ 아이디의 유효성 검사, 중복여부를 체크합니다. <br>
+✏️ 비밀번호의 유효성 검사, 비밀번호 확인을 통한 이중 체크를 합니다.  <br>
+✏️ 정확한 주소 입력을 위해 Kakao MapJs Api를 이용하여 도로명주소나 지번주소를 찾을 수 있습니다. <br>
+✏️ 주소를 누르면 우편번호, 도로명주소(지번주소)를 가져올 수 있습니다. <br>
 <br>
 
-### 마이페이지 조회
-- 마이페이지 화면 입니다.
-- 간단한 회원정보를 조회할 수 있습니다.
-- 북마크 설정하였던 여행지를 리스트 형태로 조회가능하며, 여행지 상세보기 또한 가능합니다.
-- 이전에 작성하였던 Memory를 리스트 형태로 조회가능하며, 상세보기 또한 가능합니다.
+### 😊 마이페이지
+🌟 마이페이지 화면 입니다. 프로필 및 개인 정보와 Bookmark, Memory로 구성되어 있습니다. <br>
+🌟 Bookmark, Memory가 없는 회원
+
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/d57a9dc8-53d3-4f87-9930-f065a0f6d749/mypage1.png?id=8e84b473-6635-406f-93eb-94cbaf62336e&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703023200000&signature=s3mZ3opeKyL64pMsVg0LZntYHy_V5IMrwKKPPCv412c&downloadName=mypage1.png" width="900">
+
+🌟 Bookmark, Memory가 있는 회원
+
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/d164dbca-f6e8-4f1d-b258-44c1bcf48713/Untitled.png?id=a384f2c3-4378-452f-bb55-46a195e8deba&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=bEgGZU4Ej_uWgtIFkGXwvup4h50tqYOMWBIXT4i4pl8&downloadName=Untitled.png" width="900">
+
+✏️ 이름, 번호, 이메일 등 간단한 회원정보를 볼 수 있습니다.. <br>
+✏️ 여행 정보 페이지에서 장소를 저장하면 Bookmark 영역에서 저장한 여행지를 볼 수 있으며, 누르면 상세페이지로 이동합니다.  <br>
+✏️ Memory페이지에서 사진을 공유한 사진을 Memory 영역에서 볼 수 있으며, 누르면 상세페이지로 이동합니다. <br>
+✏️ Bookmark한 장소와 공유한 Memory는 마이페이지에서 삭제가 가능합니다. <br>
+✏️ Bookmark한 장소와 공유한 Memory가 없다면 비어있는 영역을 눌러 해당페이지로 이동이 가능합니다. <br>
 <br>
 
-### 회원정보 수정
+### 😎 회원정보 수정
 - 회원정보 수정 페이지로 이동하기 전, 비밀번호를 요구합니다.
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/6554b1eb-c7bb-4202-b67b-e27c483465b1/Untitled.png?id=e34e0536-e5d5-4cef-8962-181b95f4bd35&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=UPbmx4lftVOaMZDDM1uyYXvd_knSFkWKpt6FxSaX9TY&downloadName=Untitled.png" width="900">
 <br>
