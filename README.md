@@ -97,6 +97,46 @@
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/3c9ca7b4-22c7-436c-b46c-4b434287322f/Untitled.png?id=35b54f5e-4f7b-4c72-b2f9-de58937f82f5&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=JrF-119cuJU0o9CpeslmCUvfD5sxrUUL7anX-B7JuV8&downloadName=Untitled.png">
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/e7bbbc7c-ddbe-4299-977c-d8e674055ef5/Untitled.png?id=2f2aa64e-52ef-4c32-9805-ae5ed8131208&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=ma9U_QQZx1ilDWW0r5nSblKiGC2V8xiha28FaRxHddU&downloadName=Untitled.png">
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/7676fe0e-038c-4d9f-b113-93094a36c12f/Untitled.png?id=8d4e7155-160c-4d9b-af92-c9cafed7561d&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=AMefacUplh7xKeX3ak2g3EC0XpW7ZcgiVWTaokD1Y78&downloadName=Untitled.png">
+<br>
+
+### 회원관리
+
+#### 로그인
+- 로그인 화면입니다. 아이디, 비밀번호 입력란과 아이디/비밀번호 찾기, 회원가입 링크로 구성되어 있습니다.
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/5be80c7f-5408-4d17-98c9-28038a67107e/Untitled.png?id=ec81bee1-cd2a-43eb-b2cf-337d2bcbc2eb&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=Se1JRbMn1zNXf7NJaNSS8Dx4Ov0K3vhVFgG-85DxocA&downloadName=Untitled.png">
+<br>
+
+#### 회원가입 화면
+- 회원가입 화면입니다.
+- 회원가입을 위해 필요한 사용자정보입력란과 공식적인 주소 입력을 위해 Kakao Api를 이용하여 주소 찾아서 입력하도록 구성되어 있습니다.
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/174e6c44-976c-4312-a8f5-e208b28e0b1a/Untitled.png?id=feea2f98-7d4e-4e06-bc4e-4aa861a28e4b&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=pMuwZ7iS_1Oh_j6P7ZYmOfJw14VThU0q1TvaNq97ErY&downloadName=Untitled.png">
+<br>
+
+#### 아이디 찾기
+- 아이디 찾기 화면입니다. 찾고자 하는 회원의 이름과 이메일을 입력하면 아이디를 보여줍니다.
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/aef3f8f3-f86d-4662-bfbb-262e3a1fa4da/Untitled.png?id=c29338b3-2fe1-4c4d-adb4-2df2f63c97d0&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=G9AfyosXeKJCnZf081p0HuEVUFpUx6WeY03n3Q6FoX8&downloadName=Untitled.png">
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/abe018b9-c28b-42a1-93a5-775680bd49fb/Untitled.png?id=60d7f79b-14e5-44ef-9ef3-db7e12cfb86d&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=rkdI5K7KOMqCC_QfbOn1OjgU1BTDdZHcpcWRxOJvH4s&downloadName=Untitled.png">
+<br>
+
+#### 비밀번호 찾기
+- 비밀번호 찾기 화면입니다. 찾고자 하는 회원의 아이디와 이메일을 입력하면 비밀번호를 이메일로 발송하여 줍니다.
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/07e1e94c-15b6-470f-af16-0f19b85d17ae/Untitled.png?id=0c820737-3da8-4dc8-8586-7edad297ed4c&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=sns9zoV8q79Lrc_xRFnwBk-wO9WuH2JQlmYsyTxVRSY&downloadName=Untitled.png">
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/68d4afde-efdd-480f-a3c0-149a900053cc/Untitled.png?id=8f3c0ebd-2908-4c78-9ed9-6f4e6ec4eb0a&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=ynThW4ftaEVrPDpCLHy15T_9UKYYvLcqSVRDSj41bB0&downloadName=Untitled.png">
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/d24b3caf-3c04-43bc-8bd8-e950dc05b044/Untitled.png?id=9ee59c26-1e60-4388-97c3-c49074cf589f&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=-y_E3p9ECHvBbBReZu-Bx5xCWjenY6mAMEztfTJfv_8&downloadName=Untitled.png">
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/d24b3caf-3c04-43bc-8bd8-e950dc05b044/Untitled.png?id=9ee59c26-1e60-4388-97c3-c49074cf589f&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=-y_E3p9ECHvBbBReZu-Bx5xCWjenY6mAMEztfTJfv_8&downloadName=Untitled.png>
+<br>
+
+#### 마이페이지 조회
+- 마이페이지 화면 입니다.
+- 간단한 회원정보를 조회할 수 있습니다.
+- 북마크 설정하였던 여행지를 리스트 형태로 조회가능하며, 여행지 상세보기 또한 가능합니다.
+- 이전에 작성하였던 Memory를 리스트 형태로 조회가능하며, 상세보기 또한 가능합니다.
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/d164dbca-f6e8-4f1d-b258-44c1bcf48713/Untitled.png?id=a384f2c3-4378-452f-bb55-46a195e8deba&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=bEgGZU4Ej_uWgtIFkGXwvup4h50tqYOMWBIXT4i4pl8&downloadName=Untitled.png">
+
+
+
+
+
 
 
 
