@@ -126,6 +126,7 @@
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/d24b3caf-3c04-43bc-8bd8-e950dc05b044/Untitled.png?id=9ee59c26-1e60-4388-97c3-c49074cf589f&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=-y_E3p9ECHvBbBReZu-Bx5xCWjenY6mAMEztfTJfv_8&downloadName=Untitled.png>
 <br>
 
+####
 #### 마이페이지 조회
 - 마이페이지 화면 입니다.
 - 간단한 회원정보를 조회할 수 있습니다.
