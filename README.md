@@ -148,7 +148,7 @@
 <br>
 
 ### 😊 마이페이지
-🌟 마이페이지 화면 입니다. 프로필 및 개인 정보와 Bookmark, Memory로 구성되어 있습니다. <br>
+🌟 마이페이지 화면입니다. 프로필 및 개인 정보와 Bookmark, Memory로 구성되어 있습니다. <br>
 🌟 Bookmark, Memory가 없는 회원
 
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/d57a9dc8-53d3-4f87-9930-f065a0f6d749/mypage1.png?id=8e84b473-6635-406f-93eb-94cbaf62336e&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703023200000&signature=s3mZ3opeKyL64pMsVg0LZntYHy_V5IMrwKKPPCv412c&downloadName=mypage1.png" width="900">
@@ -165,15 +165,21 @@
 <br>
 
 ### 😎 회원정보 수정
-- 회원정보 수정 페이지로 이동하기 전, 비밀번호를 요구합니다.
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/6554b1eb-c7bb-4202-b67b-e27c483465b1/Untitled.png?id=e34e0536-e5d5-4cef-8962-181b95f4bd35&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=UPbmx4lftVOaMZDDM1uyYXvd_knSFkWKpt6FxSaX9TY&downloadName=Untitled.png" width="900">
-<br>
+🌟 내 정보 수정 버튼을 누르면 비밀번호를 입력하는 칸이 뜨고 비밀번호를 입력하면 수정하는 페이지로 이동합니다.
 
-- 회원정보 리스트가 나와있으며, 수정 또는 회원 탈퇴가 가능한 페이지 입니다.
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/1c147aca-7de3-4eb6-b025-11db201a7f56/mypage2.png?id=68fc1d95-bacc-4a91-98d3-158c5f5bb1ba&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703023200000&signature=iI1tlAhhfGZZ-lN3HTxuiLF9vu3xK2bUtE4hSx2fjIo&downloadName=mypage2.png" width="900">
+
+🌟 회원정보수정 화면입니다. 회원 상세 정보 조회, 수정, 탈퇴가 가능힙니다.
+
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/143eae2c-12a7-45bc-8cce-24189c13478d/Untitled.png?id=23310adf-0d6f-41c7-815e-788d8bd5bf42&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=aqGbZvCTtyWW9swti4VwvOQCPtMWv3feVbybVFM9eSM&downloadName=Untitled.png" width="900">
+
+✏️ 프로필 사진 변경이 가능합니다. <br>
+✏️ 아이디와 이름을 제외한 회원 정보를 수정 할 수 있습니다.  <br>
+✏️ 새로운 비밀번호를 설정할 수 있습니다.. <br>
+✏️ 새로운 비밀번호의 유효성 검사, 비밀번호 확인을 통한 이중 체크를 합니다. <br>
 <br>
 
-## 게시판 화면
+## 🛠️ 게시판 🛠️
 ### 공지사항 게시판
 - 공지사항 게시판 리스트 화면 입니다. 일반유저는 조회만 가능하며, 공지사항 게시판 작성은 관리자 회원만 가능합니다.
 - 찾고자 하는 게시판의 글번호, 제목, 작성자 아이디로 검색 조회가 가능합니다.
@@ -223,7 +229,7 @@
 - 해당 장소의 위치와 사진, 장소명, 다녀온 날짜, 한줄평에 대한 정보를 볼 수 있습니다.
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/7113df9c-bef6-4314-a462-1f4219a5462b/Untitled.png?id=3a2acaa1-720c-4d1c-9852-fb43c6a0a512&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=xzvCM2vTrndXH32WJy-GJCHITWd7Slb3qf0zE3JwHZg&downloadName=Untitled.png" width="900">
 
-## 여행지 정보 조회
+## 🛠️ 여행 정보 🛠️
 ### Kakao Map 기반 여행지 리스트 조회
 - 여행지 리스트 조회 기능입니다.
 - 상단 체크박스 라인에서 조회하고 싶은 지역과 명소 Type을 선택하면 선택한 정보에 해당하는 여행지 리스트가 하단에 나타나며, 해당 여행지들의 위치가 지도에 나타납니다.
