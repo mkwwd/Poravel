@@ -69,3 +69,12 @@
   </tbody>
 </table>
 <br><br>
+
+## 5️⃣ 설계 산출물
+### ERD [🔗Link](https://www.erdcloud.com/d/QycMXTZ4XjDRxMhCd)
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/1770bf8f-086e-47a8-a4c1-4d21bee8dad4/Untitled.png?id=55f00106-8b13-4f14-96a9-aaf848971abb&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=e2aQLOsm7-20wNT0C6MsChXFFn6XSIOiLOipTafZCwI&downloadName=Untitled.png">
+<br>
+
+### Use Case [🔗Link](https://app.diagrams.net/#G1CdpXz7Za8EWyvoZVli5oD4wuxmdHhaiR)
+<img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa9e95446-d49f-4247-b0b1-e1e67493883e%2F55e07e57-216d-45ed-a294-403ce371d5e0%2FUntitled.png?table=block&id=2562c188-84a5-44de-b092-87bfccf1d7ac&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&width=1730&userId=2e0b4d86-2376-4371-bbfd-ca67c8f241de&cache=v2">
+<br>
