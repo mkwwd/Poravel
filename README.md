@@ -157,13 +157,40 @@
 - QnA 게시판 리스트화면 입니다. 일반 유저도 글 작성이 가능합니다.
 - 찾고자 하는 게시판의 글번호, 제목, 작성자 아이디로 검색 조회가 가능합니다.
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/2acde9b5-bb72-436e-b862-5f8c012a87ad/Untitled.png?id=1edb4586-48ad-4b82-bf10-022db92d94e4&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=N58gpmOioJKrhrx6w9__VkMll-51swQsnCVg8fTW3L4&downloadName=Untitled.png">
+<br>
+
 - QnA 게시판 작성 화면 입니다.
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/42a09bf4-8507-4699-ad80-8177f4c2fb5d/Untitled.png?id=b88c257d-0858-4292-822b-3b62b7c2d0a0&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=Xh_0Ebr0NYGdi6ovUTleUBAJ201ZIx4VUXiUXqWYedU&downloadName=Untitled.png">
+<br>
+
 - QnA 게시판 상세조회 화면 입니다.
     - QnA 게시판의 답글을 등록할 수 있으며, 답글입력은 관리자 회원만 가능합니다.
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/9f2b0d0c-5cdc-436f-bb46-71a1df5e9e92/Untitled.png?id=63010045-a62a-40c3-8ee1-5bfa72a2fa5f&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=3RUrjF_zPpdL0Ez7JUuwlKM_iuDSXZcKb5j2Bv9XMKw&downloadName=Untitled.png">
 
 ### Memory
-#### Memory 리스
+#### Memory 리스트
+- Memory 리스트 화면 입니다. 사용자들이 작성하여 올린 Memory를 볼 수 있습니다.
+- Best Photo에는 조회수가 가장 높은 순서대로 상위 10개의 Memory들 보여줍니다.
+- PhotoBook에는 사용자들이 작성하여 올린 Memory리스트를 보여줍니다.
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/84d6987f-dc12-4b82-8068-e3a7f9bdef33/Untitled.png?id=1b9b590c-23b7-4e47-948e-3ac65f0a5eb1&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=cPnjGSd3-nCcRn_o5y8Q9fcvpD7lS3dKV5falj1CiLw&downloadName=Untitled.png">
+<br>
+
+- Memory 글들을 클릭하면 사진이 뒤집어지며 추가적인 내용을 볼 수 있습니다.
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/47a7481e-d9cf-42f8-88dc-5ed82b1d61c1/Untitled.png?id=d43b2413-5d4e-45e7-9093-49eecc34debb&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=JEPwuK2CJsscVaxjoZqThArx8fFNrSnByJ-pa1-Bv48&downloadName=Untitled.png">
+
+#### Memory 작성
+- Memory를 작성하는 페이지입니다.
+- 익명 작성자를 위해 작성자 이름을 입력할 수 있게 두었습니다.
+- 장소를 입력하면 Kakao Map api를 이용한 검색이 실행되어 장소의 위치가 Map상에 표시됩니다.
+- 사용자가 첨부하고싶은 해당 장소의 사진을 첨부할 수 있습니다.
+- 다녀온 날짜와 한줄평을 작성할 수 있습니다.
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/cb242455-4503-408f-b645-7e03f61f1f95/Untitled.png?id=87609a82-6f47-4faa-bbad-7a291adb1961&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=36qROh_CuE8yuG0Ppr4WTGE4-aH0G2nl_tvHYmhMTbU&downloadName=Untitled.png">
+<br>
+
+#### Memory 조회
+- Memory 상세조회 페이지입니다.
+- 해당 장소의 위치와 사진, 장소명, 다녀온 날짜, 한줄평에 대한 정보를 볼 수 있습니다.
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/7113df9c-bef6-4314-a462-1f4219a5462b/Untitled.png?id=3a2acaa1-720c-4d1c-9852-fb43c6a0a512&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=xzvCM2vTrndXH32WJy-GJCHITWd7Slb3qf0zE3JwHZg&downloadName=Untitled.png">
+
 
 
