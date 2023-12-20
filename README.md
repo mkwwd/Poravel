@@ -95,7 +95,7 @@
 
 ## 7️⃣ 화면 구성
 ## 🛠️ 메인 🛠️
-🌟 메인페이지 화면입니다. 감성을 자극하는 사진 및 문구와 사용자들이 공유한 사진 및 정보를 보여주는 페이지로 구성되어 있습니다.
+🌟 메인 페이지입니다. 감성을 자극하는 사진 및 문구와 사용자들이 공유한 사진 및 정보를 보여주는 페이지로 구성되어 있습니다.
  
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/796e079b-51d1-4de0-9f48-c1d77d3141a3/main.gif?id=b68b2777-7ab6-495b-b3ac-11eedbdc790e&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703023200000&signature=VXBx512sZBJ5fy3XrzK8mRqw_3h0idQ4jv-PGvQ3-nQ&downloadName=main.gif" width="900">
 
@@ -107,13 +107,13 @@
 ## 🛠️ 회원관리 🛠️
 
 ### 🔒 로그인
-🌟 로그인 화면입니다. 아이디, 비밀번호 입력란과 아이디/비밀번호 찾기, 회원가입 링크로 구성되어 있습니다.
+🌟 로그인 페이지입니다. 아이디, 비밀번호 입력란과 아이디/비밀번호 찾기, 회원가입 링크로 구성되어 있습니다.
 
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/5be80c7f-5408-4d17-98c9-28038a67107e/Untitled.png?id=ec81bee1-cd2a-43eb-b2cf-337d2bcbc2eb&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=Se1JRbMn1zNXf7NJaNSS8Dx4Ov0K3vhVFgG-85DxocA&downloadName=Untitled.png" width="900">
 <br>
 
 ### 🔑 아이디 찾기
-🌟 아이디 찾기 화면입니다. 
+🌟 아이디 찾기 페이지입니다. 
   
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/aef3f8f3-f86d-4662-bfbb-262e3a1fa4da/Untitled.png?id=c29338b3-2fe1-4c4d-adb4-2df2f63c97d0&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=G9AfyosXeKJCnZf081p0HuEVUFpUx6WeY03n3Q6FoX8&downloadName=Untitled.png" width="900">
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/abe018b9-c28b-42a1-93a5-775680bd49fb/Untitled.png?id=60d7f79b-14e5-44ef-9ef3-db7e12cfb86d&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=rkdI5K7KOMqCC_QfbOn1OjgU1BTDdZHcpcWRxOJvH4s&downloadName=Untitled.png" width="900">
@@ -122,7 +122,7 @@
 <br>
 
 ### 🔑 비밀번호 찾기
-🌟 비밀번호 찾기 화면입니다. 
+🌟 비밀번호 찾기 페이지입니다. 
 
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/07e1e94c-15b6-470f-af16-0f19b85d17ae/Untitled.png?id=0c820737-3da8-4dc8-8586-7edad297ed4c&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=sns9zoV8q79Lrc_xRFnwBk-wO9WuH2JQlmYsyTxVRSY&downloadName=Untitled.png" width="900">
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/68d4afde-efdd-480f-a3c0-149a900053cc/Untitled.png?id=8f3c0ebd-2908-4c78-9ed9-6f4e6ec4eb0a&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=ynThW4ftaEVrPDpCLHy15T_9UKYYvLcqSVRDSj41bB0&downloadName=Untitled.png" width="900">
@@ -132,11 +132,11 @@
 <br>
 
 ### 🔒 회원가입 
-🌟 회원가입 화면입니다.
+🌟 회원가입 페이지입니다.
 
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/bfc5a469-f63f-4cb8-b711-74627eeffb08/join.png?id=3fd0998c-1057-44d6-93e1-da155bea93a5&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703016000000&signature=ci2qMCZBk1QQ5RRuI-vveh7GowJKgc57AjDrTYrIly0&downloadName=join.png" width="900">
 
-🌟 실행
+🌟 실행 - 회원가입
 
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/bb0a4604-44fb-475e-bafc-da5c178afe66/join.gif?id=410bbe93-6156-402c-8874-12d556a99e25&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703023200000&signature=eqD550y8ay6-EoHaDgtqjeMRJtUUR-VLtrw8pl0XrWc&downloadName=join.gif" width="900">
 
@@ -148,7 +148,7 @@
 <br>
 
 ### 😊 마이페이지
-🌟 마이페이지 화면입니다. 프로필 및 개인 정보와 Bookmark, Memory로 구성되어 있습니다. <br>
+🌟 마이페이지입니다. MyProfie, Bookmark, Memory로 구성되어 있습니다. <br>
 🌟 Bookmark, Memory가 없는 회원
 
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/d57a9dc8-53d3-4f87-9930-f065a0f6d749/mypage1.png?id=8e84b473-6635-406f-93eb-94cbaf62336e&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703023200000&signature=s3mZ3opeKyL64pMsVg0LZntYHy_V5IMrwKKPPCv412c&downloadName=mypage1.png" width="900">
@@ -165,19 +165,56 @@
 <br>
 
 ### 😎 회원정보 수정
-🌟 내 정보 수정 버튼을 누르면 비밀번호를 입력하는 칸이 뜨고 비밀번호를 입력하면 수정하는 페이지로 이동합니다.
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/1c147aca-7de3-4eb6-b025-11db201a7f56/mypage2.png?id=68fc1d95-bacc-4a91-98d3-158c5f5bb1ba&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703023200000&signature=iI1tlAhhfGZZ-lN3HTxuiLF9vu3xK2bUtE4hSx2fjIo&downloadName=mypage2.png" width="900">
+🌟 회원정보수정 페이지입니다. 회원 상세 정보 조회, 수정, 탈퇴가 가능힙니다.
 
-🌟 회원정보수정 화면입니다. 회원 상세 정보 조회, 수정, 탈퇴가 가능힙니다.
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/22d67182-f310-4aca-8abe-9c974309e5f7/screencapture-localhost-5173-mypageEdit-2023-12-20-19_22_55.png?id=1f9c5d77-4bd3-4c7b-bc95-bd97f89049a8&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703160000000&signature=lw2V0hkQsBEgK9MJ6pSQCNTZ69ftQN2HFCeIbPBA83E&downloadName=screencapture-localhost-5173-mypageEdit-2023-12-20-19_22_55.png" width="900">
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/143eae2c-12a7-45bc-8cce-24189c13478d/Untitled.png?id=23310adf-0d6f-41c7-815e-788d8bd5bf42&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702972800000&signature=aqGbZvCTtyWW9swti4VwvOQCPtMWv3feVbybVFM9eSM&downloadName=Untitled.png" width="900">
+🌟 실행 - 프로필 변경 및 정보수정
 
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/d60beb46-07b6-4207-8c43-9ba2807a5fed/mypage.gif?id=dfd411ce-db4c-480c-b3b9-f3797a990631&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703167200000&signature=y-DrQacaZtVkPQjdnrrKZ3XqCdU2ABm-nUj_iXlHsKk&downloadName=mypage.gif" width="900">
+
+✏️ Myprofile의 내 정보 수정 버튼을 누르면 비밀번호 확인을 하고 수정페이지로 이동합니다. <br>
 ✏️ 프로필 사진 변경이 가능합니다. <br>
 ✏️ 아이디와 이름을 제외한 회원 정보를 수정 할 수 있습니다.  <br>
 ✏️ 새로운 비밀번호를 설정할 수 있습니다.. <br>
 ✏️ 새로운 비밀번호의 유효성 검사, 비밀번호 확인을 통한 이중 체크를 합니다. <br>
 <br>
+
+## 🛠️ 여행 정보 🛠️
+
+### ✈️ 여행 정보 조회
+
+🌟 여행 정보 페이지입니다. 사진을 찍고 싶은 지역와 대상을 검색할 수 있습니다. 
+
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/ea937d8f-e995-48e6-8a53-be0610846f07/info1.png?id=5bd4ee37-5449-4c7e-b18f-3d36c23f83c6&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703167200000&signature=3YZPZn6qs1u6YFMamFW3mGLpqkUE5eOj51E45C9_Yx8&downloadName=info1.png" width="900">
+
+
+🌟 실행 - 지역명과 대상으로 검색
+
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/aa8d40ba-a04e-46cd-9a7f-5514a60f6bb7/map1.gif?id=1f9592aa-c4f1-472b-975b-72bb1a2c2e2b&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703174400000&signature=L-pCkuGsO34VA5RJmEb-ureCRaR_UmMoQg1xITnFmhE&downloadName=map1.gif" width="900">
+
+🌟 실행 - 키워드 검색
+
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/63ce9137-54ea-49f1-832e-5781b0d0ce2a/map2.gif?id=bfaf022e-fdff-4ceb-ab32-2f9aff648723&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703174400000&signature=kJRnhwilTCIykTnES2JjONsHp7UhhnGz8W3ziUhgTsU&downloadName=map2.gif" width="900">
+
+✏️ 지역명과 대상으로 또는 키워드로 사진을 찍으러 가고 싶은 곳을 검색 할 수 있습니다. <br>
+✏️ 하단에 해당하는 사진 명소 리스트가 하단에 나타나며, 해당 여행지의 위치가 지도에 나타납니다. <br>
+✏️ 사진에 마우스를 hover하면 해당 여행지의 위치로 지도가 움직이며 간략한 정보를 볼 수 있습니다. <br>
+✏️ 자세히를 눌러 상세페이지로 이동이 가능합니다. <br>
+<br>
+
+### 🏞️ 여행지 상세페이지
+
+🌟 여행 정보 페이지입니다
+
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/0bbd4bb6-566e-4c75-a6b6-070171bf7635/Untitled.png?id=4186f0c2-56e3-44b7-ac2e-ad3df09c333d&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=RqwgPs-Xkt0aEEHRXu1jemmIyy4tCYacpUpMp8b__ME&downloadName=Untitled.png" width="900">
+
+- 여행지 정보 상세 조회 화면입니다.
+- 여행지명, 여행지에 대한 설명, 이미지, 위치에 대한 정보 조회가 가능합니다.
+- 다른 사용자가 이 여행지를 태그하여 작성하였던 Memory를 조회할 수 있습니다.
+- 여행지에 대한 리뷰 작성이 가능합니다.
+- 왼쪽에 있는 메뉴바의 “장소 담아두기”를 클릭하면 해당 여행지를 북마크에 추가할 수 있습니다.
 
 ## 🛠️ 게시판 🛠️
 ### 공지사항 게시판
@@ -229,22 +266,6 @@
 - 해당 장소의 위치와 사진, 장소명, 다녀온 날짜, 한줄평에 대한 정보를 볼 수 있습니다.
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/7113df9c-bef6-4314-a462-1f4219a5462b/Untitled.png?id=3a2acaa1-720c-4d1c-9852-fb43c6a0a512&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=xzvCM2vTrndXH32WJy-GJCHITWd7Slb3qf0zE3JwHZg&downloadName=Untitled.png" width="900">
 
-## 🛠️ 여행 정보 🛠️
-### Kakao Map 기반 여행지 리스트 조회
-- 여행지 리스트 조회 기능입니다.
-- 상단 체크박스 라인에서 조회하고 싶은 지역과 명소 Type을 선택하면 선택한 정보에 해당하는 여행지 리스트가 하단에 나타나며, 해당 여행지들의 위치가 지도에 나타납니다.
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/befb5add-f3e9-4846-9127-61cd9f4b988c/Untitled.png?id=503bcc92-c54d-43cf-b045-d7e5d98d48f1&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=05v1GERKu6Nmp-8apNMhxJCKUVv_lr78N2ExgQNVJWk&downloadName=Untitled.png" width="900">
-<br>
 
-- 하단 여행지 리스트에서 보고싶은 여행지에 마우스를 올리면 해당 여행지의 위치로 지도가 이동됩니다.
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/236ec5e6-5853-4931-b567-98b04a1ff397/Untitled.png?id=8e12f60d-bd58-480a-8d8b-b9784095354c&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=EE6NYfkPj9CXGwh2nouuqhhfs2VO-NacWaB5iq4zi70&downloadName=Untitled.png" width="900">
-
-### 여행지 정보 상세 조회
-- 여행지 정보 상세 조회 화면입니다.
-- 여행지명, 여행지에 대한 설명, 이미지, 위치에 대한 정보 조회가 가능합니다.
-- 다른 사용자가 이 여행지를 태그하여 작성하였던 Memory를 조회할 수 있습니다.
-- 여행지에 대한 리뷰 작성이 가능합니다.
-- 왼쪽에 있는 메뉴바의 “장소 담아두기”를 클릭하면 해당 여행지를 북마크에 추가할 수 있습니다.
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/0bbd4bb6-566e-4c75-a6b6-070171bf7635/Untitled.png?id=4186f0c2-56e3-44b7-ac2e-ad3df09c333d&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=RqwgPs-Xkt0aEEHRXu1jemmIyy4tCYacpUpMp8b__ME&downloadName=Untitled.png" width="900">
 
 
