@@ -174,7 +174,7 @@
 
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/d60beb46-07b6-4207-8c43-9ba2807a5fed/mypage.gif?id=dfd411ce-db4c-480c-b3b9-f3797a990631&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703167200000&signature=y-DrQacaZtVkPQjdnrrKZ3XqCdU2ABm-nUj_iXlHsKk&downloadName=mypage.gif" width="900">
 
-✏️ Myprofile의 내 정보 수정 버튼을 누르면 비밀번호 확인을 하고 수정페이지로 이동합니다. <br>
+✏️ Myprofile의 '내 정보 수정' 버튼을 누르면 비밀번호 확인을 하고 수정페이지로 이동합니다. <br>
 ✏️ 프로필 사진 변경이 가능합니다. <br>
 ✏️ 아이디와 이름을 제외한 회원 정보를 수정 할 수 있습니다.  <br>
 ✏️ 새로운 비밀번호를 설정할 수 있습니다.. <br>
@@ -194,7 +194,7 @@
 
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/aa8d40ba-a04e-46cd-9a7f-5514a60f6bb7/map1.gif?id=1f9592aa-c4f1-472b-975b-72bb1a2c2e2b&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703174400000&signature=L-pCkuGsO34VA5RJmEb-ureCRaR_UmMoQg1xITnFmhE&downloadName=map1.gif" width="900">
 
-🌟 실행 - 키워드 검색
+🌟 실행 - 키워드 검색 (습지, 섭지코지)
 
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/63ce9137-54ea-49f1-832e-5781b0d0ce2a/map2.gif?id=bfaf022e-fdff-4ceb-ab32-2f9aff648723&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703174400000&signature=kJRnhwilTCIykTnES2JjONsHp7UhhnGz8W3ziUhgTsU&downloadName=map2.gif" width="900">
 
@@ -206,15 +206,24 @@
 
 ### 🏞️ 여행지 상세페이지
 
-🌟 여행 정보 페이지입니다
+🌟 여행 정보 상세페이지입니다. 여행지명, 여행지 정보, 위치 정보 등을 조회 할 수 있습니다.
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/0bbd4bb6-566e-4c75-a6b6-070171bf7635/Untitled.png?id=4186f0c2-56e3-44b7-ac2e-ad3df09c333d&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=RqwgPs-Xkt0aEEHRXu1jemmIyy4tCYacpUpMp8b__ME&downloadName=Untitled.png" width="900">
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/5eaaaaee-9e48-4ac8-bb34-d6c5d10ec7c9/mapinfo1.gif?id=4396a1dd-87ae-4603-9c25-15e826289f97&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703174400000&signature=dNr7vvtOdXfrNA6HCq7UslqHVN5fIMG0fScpdrAAy-0&downloadName=mapinfo1.gif" width="900">
 
-- 여행지 정보 상세 조회 화면입니다.
-- 여행지명, 여행지에 대한 설명, 이미지, 위치에 대한 정보 조회가 가능합니다.
-- 다른 사용자가 이 여행지를 태그하여 작성하였던 Memory를 조회할 수 있습니다.
-- 여행지에 대한 리뷰 작성이 가능합니다.
-- 왼쪽에 있는 메뉴바의 “장소 담아두기”를 클릭하면 해당 여행지를 북마크에 추가할 수 있습니다.
+🌟 해당 여행지의 공유된 Memory가 없는 경우 
+
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/f2fd855a-3b81-4dd3-b6d4-3d0d2bbbf2f8/noMemo.png?id=9e00b1b9-e006-4bad-8054-b57c0fd546e6&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703181600000&signature=R8-4B8YASe6sSKXVTfdC4vRy5FRIwpO_4UiZeGXoAlY&downloadName=noMemo.png" width="900">
+
+🌟 실행 - 리뷰작성, 장소 담아두기
+
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/75147aea-b367-459e-a80e-42ace43ba935/mapinfo2.gif?id=cb0bfde5-b9c7-44d3-a727-a5eb405ef528&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703188800000&signature=CLgqGFV5zZqdRKjAQz-Dd7fRkHsFuvG-aaklh6Mgc9E&downloadName=mapinfo2.gif" width="900">
+
+✏️ 따라다니는 사이드바를 눌러 원하는 위치로 바로 이동이 가능합니다. <br>
+✏️ 다른 사용자가 이 여행지에서 찍은 사진이 있다면 Memory 영역에서 사진을 볼 수 있습니다. <br>
+✏️ 사진이 없다면 Memory 영역을 눌러 Memory페이지로 이동이 가능힙니다. <br>
+✏️ 여행지에 대한 리뷰작성이 가능하며 내가 쓴 리뷰만 삭제 할 수 있습니다. <br>
+✏️ 사이드바의 '장소 담아두기'를 누르면 해당 여행지를 북마크에 추가할 수 있으며 마이페이지에서 확인이 가능합니다. <br>
+<br>
 
 ## 🛠️ 게시판 🛠️
 ### 공지사항 게시판
