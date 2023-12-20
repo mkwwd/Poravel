@@ -1,6 +1,7 @@
 # 📸 *Poravel* 📸
 💻 삼성 청년 SW 아카데미 1학기 관통 프로젝트 <br>
-🖼️ 아름다운 사진 명소 공유 사이트
+🖼️ Photo + Travel - 아름다운 사진 명소, 추억 공유 사이트
+<br>
 <br>
 
 ## 🧑🏻‍💻 팀원 👩🏻‍💻  
@@ -165,7 +166,6 @@
 <br>
 
 ### 😎 회원정보 수정
-
 🌟 회원정보수정 페이지입니다. 회원 상세 정보 조회, 수정, 탈퇴가 가능힙니다.
 
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/22d67182-f310-4aca-8abe-9c974309e5f7/screencapture-localhost-5173-mypageEdit-2023-12-20-19_22_55.png?id=1f9c5d77-4bd3-4c7b-bc95-bd97f89049a8&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703160000000&signature=lw2V0hkQsBEgK9MJ6pSQCNTZ69ftQN2HFCeIbPBA83E&downloadName=screencapture-localhost-5173-mypageEdit-2023-12-20-19_22_55.png" width="900">
@@ -184,7 +184,6 @@
 ## 🛠️ 여행 정보 🛠️
 
 ### ✈️ 여행 정보 조회
-
 🌟 여행 정보 페이지입니다. 사진을 찍고 싶은 지역와 대상을 검색할 수 있습니다. 
 
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/ea937d8f-e995-48e6-8a53-be0610846f07/info1.png?id=5bd4ee37-5449-4c7e-b18f-3d36c23f83c6&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703167200000&signature=3YZPZn6qs1u6YFMamFW3mGLpqkUE5eOj51E45C9_Yx8&downloadName=info1.png" width="900">
@@ -201,11 +200,10 @@
 ✏️ 지역명과 대상으로 또는 키워드로 사진을 찍으러 가고 싶은 곳을 검색 할 수 있습니다. <br>
 ✏️ 하단에 해당하는 사진 명소 리스트가 하단에 나타나며, 해당 여행지의 위치가 지도에 나타납니다. <br>
 ✏️ 사진에 마우스를 hover하면 해당 여행지의 위치로 지도가 움직이며 간략한 정보를 볼 수 있습니다. <br>
-✏️ 자세히를 눌러 상세페이지로 이동이 가능합니다. <br>
+✏️ 오른쪽 하단의 '자세히'를 누르면 상세페이지로 이동이 가능합니다. <br>
 <br>
 
 ### 🏞️ 여행지 상세페이지
-
 🌟 여행 정보 상세페이지입니다. 여행지명, 여행지 정보, 위치 정보 등을 조회 할 수 있습니다.
 
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/5eaaaaee-9e48-4ac8-bb34-d6c5d10ec7c9/mapinfo1.gif?id=4396a1dd-87ae-4603-9c25-15e826289f97&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703174400000&signature=dNr7vvtOdXfrNA6HCq7UslqHVN5fIMG0fScpdrAAy-0&downloadName=mapinfo1.gif" width="900">
@@ -225,22 +223,59 @@
 ✏️ 사이드바의 '장소 담아두기'를 누르면 해당 여행지를 북마크에 추가할 수 있으며 마이페이지에서 확인이 가능합니다. <br>
 <br>
 
-## 🛠️ 게시판 🛠️
-### 공지사항 게시판
-- 공지사항 게시판 리스트 화면 입니다. 일반유저는 조회만 가능하며, 공지사항 게시판 작성은 관리자 회원만 가능합니다.
-- 찾고자 하는 게시판의 글번호, 제목, 작성자 아이디로 검색 조회가 가능합니다.
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/dd765729-2c06-4ede-b9bf-4692639db1fc/Untitled.png?id=e05512cf-6ae9-442d-8e45-dab817d83148&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=vYi3xkltICsZa04HoVv8z929aQbsM4du_0srPuq7geU&downloadName=Untitled.png" width="900">
+## 🛠️ Memory 🛠️
+
+### 📷 Memory 공유
+🌟 Memory 페이지입니다. 사용자들이 여행지에 가서 찍은 사진을 공유할 수 있습니다.
+
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/84d6987f-dc12-4b82-8068-e3a7f9bdef33/Untitled.png?id=1b9b590c-23b7-4e47-948e-3ac65f0a5eb1&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=cPnjGSd3-nCcRn_o5y8Q9fcvpD7lS3dKV5falj1CiLw&downloadName=Untitled.png" width="900">
+
+✏️ Best Photo에서 조회수가 높은 상위 10개의 Memory를 보여줍니다. <br>
+✏️ PhotoBook에는 사용자들이 공유한 Memory를 모두 볼 수 있습니다. <br>
+✏️ 폴라로이드를 누르면 뒷면을 볼 수 있으며, 사진에 관한 정보가 적혀있습니다. <br>
 <br>
+
+### ✒️ Memory 작성
+🌟 Memory를 작성하는 페이지입니다. <br>
+🌟 PhotoBook의 가장 마지막에 비어있는 폴라로이드를 누르거나 사이드바의 등록하기를 클릭하면 Memory를 공유할 수 있습니다.
+
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/cb242455-4503-408f-b645-7e03f61f1f95/Untitled.png?id=87609a82-6f47-4faa-bbad-7a291adb1961&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=36qROh_CuE8yuG0Ppr4WTGE4-aH0G2nl_tvHYmhMTbU&downloadName=Untitled.png" width="900">
+
+✏️ 작성자 이름을 입력할 수 있게 두어 익명으로도 등록이 가능합니다.  <br>
+✏️ 장소를 입력하면 Kakao Map api를 이용한 검색이 실행되어 장소의 위치가 Map상에 표시되며 등록시 위치가 저장됩니다. <br>
+✏️ 사용자가 공유하고싶은 해당 장소의 사진과, 날짜 한줄평을 입력할 수 있습니다. <br>
+<br>
+
+### 🌅 Memory 상세페이지
+🌟 Memory 상세조회 페이지입니다. 폴라로이드 뒷면의 '더보기'를 누르면 이동이 가능힙니다.
+
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/7113df9c-bef6-4314-a462-1f4219a5462b/Untitled.png?id=3a2acaa1-720c-4d1c-9852-fb43c6a0a512&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=xzvCM2vTrndXH32WJy-GJCHITWd7Slb3qf0zE3JwHZg&downloadName=Untitled.png" width="900">
+
+✏️ 공유된 Memory의 사진, 위치 등 자세한 정보를 보여줍니다. <br>
+✏️ 같은 장소에서 공유된 다른 사람들의 Memory도 볼 수 있고 다른 Memory 상세조회도 가능합니다.  <br>
+<br>
+
+## 🛠️ 게시판 🛠️
+### 📌 공지사항 게시판
+🌟 공지사항 게시판 페이지입니다. 
+
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/dd765729-2c06-4ede-b9bf-4692639db1fc/Untitled.png?id=e05512cf-6ae9-442d-8e45-dab817d83148&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=vYi3xkltICsZa04HoVv8z929aQbsM4du_0srPuq7geU&downloadName=Untitled.png" width="900">
+
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/68f0f9df-6ed3-46ba-a0cf-5e48a41ec65a/Untitled.png?id=2127bccc-de49-423a-ba53-64f59d0ac28a&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=8xJY8W-jwMyE5JV7eDY77r_zly8Fyme-fnAap2C50gE&downloadName=Untitled.png" width="900">
+
+🤵🙍‍♀️
+  일반유저는 조회만 가능하며, 공지사항 게시판 작성은 관리자 회원만 가능합니다.
+- 찾고자 하는 게시판의 글번호, 제목, 작성자 아이디로 검색 조회가 가능합니다.
 
 - 공지사항 게시판 상세조회 화면입니다. 일반유저는 조회만 가능하며, 게시판 수정 및 삭제는 관리자 회원만 가능합니다.
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/68f0f9df-6ed3-46ba-a0cf-5e48a41ec65a/Untitled.png?id=2127bccc-de49-423a-ba53-64f59d0ac28a&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=8xJY8W-jwMyE5JV7eDY77r_zly8Fyme-fnAap2C50gE&downloadName=Untitled.png" width="900">
-<br>
 
-### QnA 게시판
-- QnA 게시판 리스트화면 입니다. 일반 유저도 글 작성이 가능합니다.
-- 찾고자 하는 게시판의 글번호, 제목, 작성자 아이디로 검색 조회가 가능합니다.
+### ❓ QnA 게시판
+🌟 QnA 게시판 페이지입니다. 일반 유저도 글 작성이 가능합니다.
+
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/2acde9b5-bb72-436e-b862-5f8c012a87ad/Untitled.png?id=1edb4586-48ad-4b82-bf10-022db92d94e4&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=N58gpmOioJKrhrx6w9__VkMll-51swQsnCVg8fTW3L4&downloadName=Untitled.png" width="900">
 <br>
+
+- 찾고자 하는 게시판의 글번호, 제목, 작성자 아이디로 검색 조회가 가능합니다.
 
 - QnA 게시판 작성 화면 입니다.
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/42a09bf4-8507-4699-ad80-8177f4c2fb5d/Untitled.png?id=b88c257d-0858-4292-822b-3b62b7c2d0a0&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=Xh_0Ebr0NYGdi6ovUTleUBAJ201ZIx4VUXiUXqWYedU&downloadName=Untitled.png" width="900">
@@ -250,30 +285,7 @@
     - QnA 게시판의 답글을 등록할 수 있으며, 답글입력은 관리자 회원만 가능합니다.
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/9f2b0d0c-5cdc-436f-bb46-71a1df5e9e92/Untitled.png?id=63010045-a62a-40c3-8ee1-5bfa72a2fa5f&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=3RUrjF_zPpdL0Ez7JUuwlKM_iuDSXZcKb5j2Bv9XMKw&downloadName=Untitled.png" width="900">
 
-## Memory
-### Memory 리스트
-- Memory 리스트 화면 입니다. 사용자들이 작성하여 올린 Memory를 볼 수 있습니다.
-- Best Photo에는 조회수가 가장 높은 순서대로 상위 10개의 Memory들 보여줍니다.
-- PhotoBook에는 사용자들이 작성하여 올린 Memory리스트를 보여줍니다.
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/84d6987f-dc12-4b82-8068-e3a7f9bdef33/Untitled.png?id=1b9b590c-23b7-4e47-948e-3ac65f0a5eb1&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=cPnjGSd3-nCcRn_o5y8Q9fcvpD7lS3dKV5falj1CiLw&downloadName=Untitled.png" width="900">
-<br>
 
-- Memory 글들을 클릭하면 사진이 뒤집어지며 추가적인 내용을 볼 수 있습니다.
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/47a7481e-d9cf-42f8-88dc-5ed82b1d61c1/Untitled.png?id=d43b2413-5d4e-45e7-9093-49eecc34debb&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=JEPwuK2CJsscVaxjoZqThArx8fFNrSnByJ-pa1-Bv48&downloadName=Untitled.png" width="900">
-
-### Memory 작성
-- Memory를 작성하는 페이지입니다.
-- 익명 작성자를 위해 작성자 이름을 입력할 수 있게 두었습니다.
-- 장소를 입력하면 Kakao Map api를 이용한 검색이 실행되어 장소의 위치가 Map상에 표시됩니다.
-- 사용자가 첨부하고싶은 해당 장소의 사진을 첨부할 수 있습니다.
-- 다녀온 날짜와 한줄평을 작성할 수 있습니다.
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/cb242455-4503-408f-b645-7e03f61f1f95/Untitled.png?id=87609a82-6f47-4faa-bbad-7a291adb1961&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=36qROh_CuE8yuG0Ppr4WTGE4-aH0G2nl_tvHYmhMTbU&downloadName=Untitled.png" width="900">
-<br>
-
-### Memory 조회
-- Memory 상세조회 페이지입니다.
-- 해당 장소의 위치와 사진, 장소명, 다녀온 날짜, 한줄평에 대한 정보를 볼 수 있습니다.
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/7113df9c-bef6-4314-a462-1f4219a5462b/Untitled.png?id=3a2acaa1-720c-4d1c-9852-fb43c6a0a512&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=xzvCM2vTrndXH32WJy-GJCHITWd7Slb3qf0zE3JwHZg&downloadName=Untitled.png" width="900">
 
 
 
