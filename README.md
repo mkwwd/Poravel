@@ -261,7 +261,7 @@
 
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/dd765729-2c06-4ede-b9bf-4692639db1fc/Untitled.png?id=e05512cf-6ae9-442d-8e45-dab817d83148&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=vYi3xkltICsZa04HoVv8z929aQbsM4du_0srPuq7geU&downloadName=Untitled.png" width="900">
 
-🌟 실행 - 공지조회, 등록, 수정, 삭제 ( 관리자 계정 )
+🌟 실행 - 공지조회, 작성, 수정, 삭제 ( 관리자 계정 )
 
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/c6a39715-0bca-47a4-9021-5d500b21dad1/notice1.gif?id=3774fd30-f660-404b-bb78-edc3440306dd&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703260800000&signature=g-GtVvxIULe6FzijmvJHAA8O4Jk9gQo4oIUX0uoywpk&downloadName=notice1.gif" width="900">
 
@@ -276,15 +276,15 @@
 ### ❓ QnA 게시판
 🌟 QnA 게시판 페이지입니다. 
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/2acde9b5-bb72-436e-b862-5f8c012a87ad/Untitled.png?id=1edb4586-48ad-4b82-bf10-022db92d94e4&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=N58gpmOioJKrhrx6w9__VkMll-51swQsnCVg8fTW3L4&downloadName=Untitled.png" width="900">  
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/6338dacf-7b60-4def-869c-38b3ab86fb6c/qna1.png?id=8c37e029-ca52-4ff7-b1c3-a4ea3127fd69&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703275200000&signature=nkG7Qn-MS0cMvI5UY5tMH8ytKVTF0RihLze-k4yZFzE&downloadName=qna1.png" width="900">  
 
-🌟 실행 - 질문 등록, 수정, 검색, 조회, 삭제 ( 회원 계정 )
+🌟 실행 - 질문 조회, 작성, 수정, 삭제, 검색 ( 회원 계정 )
 
-<img src="" width="900">  
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/dd696ea3-a822-4126-af01-8146502b0ca5/qna2.gif?id=d8216ba0-5a30-47e1-9a61-42942cab8369&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703275200000&signature=YuY_ZkILzaWtQC8NJ_M5AP2i6RTp3k0Omt6B7-tyjeU&downloadName=qna2.gif" width="900">  
 
 🌟 실행 - 답변 등록, 삭제 ( 관리자 계정 )
 
-<img src="" width="900">  
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/0b0648b8-ba62-4165-9b66-3760994e1b61/qna3.gif?id=956e2bf4-d75b-429b-979c-d6beb7ace89a&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703275200000&signature=fbCR5EUCV3WjuLQGGyFEVJxAfKA1XPHGLTi0wRTxuNs&downloadName=qna3.gif" width="900">  
 
 ✏️ 일반 회원이라면 조회 및 작성이 가능하며 본인 글인 경우 수정, 삭제도 가능합니다.<br>
 ✏️ 작성자의 아이디는 일부 *처리가 되어 작성자의 아이디가 일부만 보이도록 하였습니다.  <br>
