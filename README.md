@@ -188,7 +188,6 @@
 
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/ea937d8f-e995-48e6-8a53-be0610846f07/info1.png?id=5bd4ee37-5449-4c7e-b18f-3d36c23f83c6&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703167200000&signature=3YZPZn6qs1u6YFMamFW3mGLpqkUE5eOj51E45C9_Yx8&downloadName=info1.png" width="900">
 
-
 🌟 실행 - 지역명과 대상으로 검색
 
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/aa8d40ba-a04e-46cd-9a7f-5514a60f6bb7/map1.gif?id=1f9592aa-c4f1-472b-975b-72bb1a2c2e2b&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703174400000&signature=L-pCkuGsO34VA5RJmEb-ureCRaR_UmMoQg1xITnFmhE&downloadName=map1.gif" width="900">
@@ -197,7 +196,8 @@
 
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/63ce9137-54ea-49f1-832e-5781b0d0ce2a/map2.gif?id=bfaf022e-fdff-4ceb-ab32-2f9aff648723&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703174400000&signature=kJRnhwilTCIykTnES2JjONsHp7UhhnGz8W3ziUhgTsU&downloadName=map2.gif" width="900">
 
-✏️ 지역명과 대상으로 또는 키워드로 사진을 찍으러 가고 싶은 곳을 검색 할 수 있습니다. <br>
+✏️ 지역명과 대상으로 사진을 찍으러 가고 싶은 곳을 검색 할 수 있습니다. <br>
+✏️ 지역명과 대상으로 검색이 안되거나 특정 장소를 검색하고 싶다면 키워드로도 가능함니다. <br>
 ✏️ 하단에 해당하는 사진 명소 리스트가 하단에 나타나며, 해당 여행지의 위치가 지도에 나타납니다. <br>
 ✏️ 사진에 마우스를 hover하면 해당 여행지의 위치로 지도가 움직이며 간략한 정보를 볼 수 있습니다. <br>
 ✏️ 오른쪽 하단의 '자세히'를 누르면 상세페이지로 이동이 가능합니다. <br>
@@ -261,32 +261,34 @@
 
 <img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/dd765729-2c06-4ede-b9bf-4692639db1fc/Untitled.png?id=e05512cf-6ae9-442d-8e45-dab817d83148&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=vYi3xkltICsZa04HoVv8z929aQbsM4du_0srPuq7geU&downloadName=Untitled.png" width="900">
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/68f0f9df-6ed3-46ba-a0cf-5e48a41ec65a/Untitled.png?id=2127bccc-de49-423a-ba53-64f59d0ac28a&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=8xJY8W-jwMyE5JV7eDY77r_zly8Fyme-fnAap2C50gE&downloadName=Untitled.png" width="900">
+🌟 실행 - 공지조회, 등록, 수정, 삭제 ( 관리자 계정 )
 
-🤵🙍‍♀️
-  일반유저는 조회만 가능하며, 공지사항 게시판 작성은 관리자 회원만 가능합니다.
-- 찾고자 하는 게시판의 글번호, 제목, 작성자 아이디로 검색 조회가 가능합니다.
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/c6a39715-0bca-47a4-9021-5d500b21dad1/notice1.gif?id=3774fd30-f660-404b-bb78-edc3440306dd&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703260800000&signature=g-GtVvxIULe6FzijmvJHAA8O4Jk9gQo4oIUX0uoywpk&downloadName=notice1.gif" width="900">
 
-- 공지사항 게시판 상세조회 화면입니다. 일반유저는 조회만 가능하며, 게시판 수정 및 삭제는 관리자 회원만 가능합니다.
+🌟 실행 - 검색
+
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/890f2fcb-5a17-494e-a685-1540d2dfc794/notice2.gif?id=0d7320cd-f4a9-4347-8483-6183d9c0cfa8&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703260800000&signature=lnB3RslSJHvWFon4nD3eeoBuUeq87idyhiKT09Yr1N8&downloadName=notice2.gif" width="900">
+
+✏️ 공지사항 조회는 누구나 할 수 있으나 공지사항 게시판 작성, 수정, 삭제는 관리자만 가능합니다.<br>
+✏️ 찾고자 하는 공지글의 글번호, 제목, 작성자 아이디로 검색이 가능합니다. <br>
+<br>
 
 ### ❓ QnA 게시판
-🌟 QnA 게시판 페이지입니다. 일반 유저도 글 작성이 가능합니다.
+🌟 QnA 게시판 페이지입니다. 
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/2acde9b5-bb72-436e-b862-5f8c012a87ad/Untitled.png?id=1edb4586-48ad-4b82-bf10-022db92d94e4&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=N58gpmOioJKrhrx6w9__VkMll-51swQsnCVg8fTW3L4&downloadName=Untitled.png" width="900">
+<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/2acde9b5-bb72-436e-b862-5f8c012a87ad/Untitled.png?id=1edb4586-48ad-4b82-bf10-022db92d94e4&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=N58gpmOioJKrhrx6w9__VkMll-51swQsnCVg8fTW3L4&downloadName=Untitled.png" width="900">  
+
+🌟 실행 - 질문 등록, 수정, 검색, 조회, 삭제 ( 회원 계정 )
+
+<img src="" width="900">  
+
+🌟 실행 - 답변 등록, 삭제 ( 관리자 계정 )
+
+<img src="" width="900">  
+
+✏️ 일반 회원이라면 조회 및 작성이 가능하며 본인 글인 경우 수정, 삭제도 가능합니다.<br>
+✏️ 작성자의 아이디는 일부 *처리가 되어 작성자의 아이디가 일부만 보이도록 하였습니다.  <br>
+✏️ 찾고자 하는 글의 글번호, 제목, 작성자 아이디로 검색이 가능합니다. <br>
+✏️ QnA글에 답변을 남길 수 있으며, 답글은 관리자만 가능합니다. <br>
 <br>
-
-- 찾고자 하는 게시판의 글번호, 제목, 작성자 아이디로 검색 조회가 가능합니다.
-
-- QnA 게시판 작성 화면 입니다.
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/42a09bf4-8507-4699-ad80-8177f4c2fb5d/Untitled.png?id=b88c257d-0858-4292-822b-3b62b7c2d0a0&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=Xh_0Ebr0NYGdi6ovUTleUBAJ201ZIx4VUXiUXqWYedU&downloadName=Untitled.png" width="900">
-<br>
-
-- QnA 게시판 상세조회 화면 입니다.
-    - QnA 게시판의 답글을 등록할 수 있으며, 답글입력은 관리자 회원만 가능합니다.
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/9f2b0d0c-5cdc-436f-bb46-71a1df5e9e92/Untitled.png?id=63010045-a62a-40c3-8ee1-5bfa72a2fa5f&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1702980000000&signature=3RUrjF_zPpdL0Ez7JUuwlKM_iuDSXZcKb5j2Bv9XMKw&downloadName=Untitled.png" width="900">
-
-
-
-
-
 
