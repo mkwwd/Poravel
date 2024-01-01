@@ -184,15 +184,15 @@
 ### ✈️ 여행 정보 조회
 🌟 여행 정보 페이지입니다. 사진을 찍고 싶은 지역와 대상을 검색할 수 있습니다. 
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/ea937d8f-e995-48e6-8a53-be0610846f07/info1.png?id=5bd4ee37-5449-4c7e-b18f-3d36c23f83c6&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703714400000&signature=TObx5yFB2miXWrR57k_MhFl6O-1zhFpdyre6jcfGg7c&downloadName=info1.png" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/map.png" width="900">
 
 🌟 실행 - 지역명과 대상으로 검색
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/aa8d40ba-a04e-46cd-9a7f-5514a60f6bb7/map1.gif?id=1f9592aa-c4f1-472b-975b-72bb1a2c2e2b&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703714400000&signature=iLmeN_Uumbe-7TIiKzLen4pr-IkwnM-V64UQZPvdl-U&downloadName=map1.gif" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/map-search.gif" width="900">
 
 🌟 실행 - 키워드 검색 (습지, 섭지코지)
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/63ce9137-54ea-49f1-832e-5781b0d0ce2a/map2.gif?id=bfaf022e-fdff-4ceb-ab32-2f9aff648723&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703714400000&signature=78bD_VYYkLYXnzNOB4OrjK30SpaJAa6wO7BU6vxW1rQ&downloadName=map2.gif" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/map-keyword.gif" width="900">
 
 ✏️ 지역명과 대상으로 사진을 찍으러 가고 싶은 곳을 검색 할 수 있습니다. <br>
 ✏️ 지역명과 대상으로 검색이 안되거나 특정 장소를 검색하고 싶다면 키워드로도 가능함니다. <br>
@@ -204,15 +204,15 @@
 ### 🏞️ 여행지 상세페이지
 🌟 여행 정보 상세페이지입니다. 여행지명, 여행지 정보, 위치 정보 등을 조회 할 수 있습니다.
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/5eaaaaee-9e48-4ac8-bb34-d6c5d10ec7c9/mapinfo1.gif?id=4396a1dd-87ae-4603-9c25-15e826289f97&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703714400000&signature=Mi4HMMbiJz-gBA8wO-_266UaSVA7QZFJdlox_YfbNr8&downloadName=mapinfo1.gif" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/mapinfo1.gif" width="900">
 
 🌟 해당 여행지의 공유된 Memory가 없는 경우 
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/f2fd855a-3b81-4dd3-b6d4-3d0d2bbbf2f8/noMemo.png?id=9e00b1b9-e006-4bad-8054-b57c0fd546e6&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703721600000&signature=1fEASZLOjFdT7_Q1Us7RIXyk3bi7JZmfW2hgaG_O3yw&downloadName=noMemo.png" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/noMemo.png" width="900">
 
 🌟 실행 - 리뷰작성, 장소 담아두기
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/75147aea-b367-459e-a80e-42ace43ba935/mapinfo2.gif?id=cb0bfde5-b9c7-44d3-a727-a5eb405ef528&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703721600000&signature=mTNsv_bst4C5tt_jurN5GGNUNzY_riPu_FMk0aQDIGY&downloadName=mapinfo2.gif" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/mapinfo2.gif" width="900">
 
 ✏️ 따라다니는 사이드바를 눌러 원하는 위치로 바로 이동이 가능합니다. <br>
 ✏️ 다른 사용자가 이 여행지에서 찍은 사진이 있다면 Memory 영역에서 사진을 볼 수 있습니다. <br>
@@ -226,7 +226,7 @@
 ### 📷 Memory 공유
 🌟 Memory 페이지입니다. 사용자들이 여행지에 가서 찍은 사진을 공유할 수 있습니다.
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/204e9425-80a6-490a-914a-ad8a032b86a9/ezgif.com-video-to-gif-converter_(1).gif?id=1b9b590c-23b7-4e47-948e-3ac65f0a5eb1&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703721600000&signature=jIdQRh9rkSSgNl7Nbe6iRlKooLXqAGo9Gb1VwNdupU0&downloadName=ezgif.com-video-to-gif-converter+%281%29.gif" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/memory.gif" width="900">
 
 ✏️ Best Photo에서 조회수가 높은 상위 10개의 Memory를 보여줍니다. <br>
 ✏️ PhotoBook에는 사용자들이 공유한 Memory를 모두 볼 수 있습니다. <br>
@@ -237,11 +237,11 @@
 🌟 Memory를 작성하는 페이지입니다. <br>
 🌟 PhotoBook의 가장 마지막에 비어있는 폴라로이드를 누르거나 사이드바의 등록하기를 클릭하면 Memory를 공유할 수 있습니다.
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/cb529fe8-2ea2-4707-8a2f-3accc33a2ae8/ezgif.com-video-to-gif-converter_(3).gif?id=87609a82-6f47-4faa-bbad-7a291adb1961&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703721600000&signature=GFVQ2XUXs86XDRs6_7kdpZa_RGM12AaT15vty6MtWoQ&downloadName=ezgif.com-video-to-gif-converter+%283%29.gif" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/memory.gif" width="900">
 
 🌟 로그인 전/ 로그인 후 마지막 폴라로이드변화
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/30ca2935-6391-474b-a16b-e060d96b00f5/%ED%8F%B4%EB%9D%BC%EB%A1%9C%EC%9D%B4%EB%93%9C.png?id=64f19e6f-de13-403a-bb4c-d1f63bfd83ff&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703721600000&signature=4QVe8fA1KwHAz4OR6rrCYxIFvCJ-rk8iJ3oeaFz0J1s&downloadName=%ED%8F%B4%EB%9D%BC%EB%A1%9C%EC%9D%B4%EB%93%9C.png" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/polaroid.png" width="900">
 
 ✏️ 로그인 후 마지막 폴라로이드의 이름이 아이디로 변경되면 등록이 가능한 상태가 됩니다.  <br>
 ✏️ 작성자 이름을 입력할 수 있게 두어 익명으로도 등록이 가능합니다.  <br>
@@ -252,7 +252,7 @@
 ### 🌅 Memory 상세페이지
 🌟 Memory 상세조회 페이지입니다. 폴라로이드 뒷면의 '더보기'를 누르면 이동이 가능힙니다.
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/cb915c38-1883-466a-8474-eae24c561955/ezgif.com-video-to-gif-converter_(2).gif?id=3a2acaa1-720c-4d1c-9852-fb43c6a0a512&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703721600000&signature=5iT5Sqaya7_2Vlb1FbLHXG77t8JCVJyN183UBeh3TFw&downloadName=ezgif.com-video-to-gif-converter+%282%29.gif" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/memory-detail.gif" width="900">
 
 ✏️ 공유된 Memory의 사진, 위치 등 자세한 정보를 보여줍니다. <br>
 ✏️ 같은 장소에서 공유된 다른 사람들의 Memory도 볼 수 있고 다른 Memory 상세조회도 가능합니다.  <br>
@@ -262,15 +262,15 @@
 ### 📌 공지사항 게시판
 🌟 공지사항 게시판 페이지입니다. 
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/dd765729-2c06-4ede-b9bf-4692639db1fc/Untitled.png?id=e05512cf-6ae9-442d-8e45-dab817d83148&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703721600000&signature=-e_V8nHUR-6zVYQ5UxGfdOWVXoFx3ERSiUXCDs2cZek&downloadName=Untitled.png" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/notice.png" width="900">
 
 🌟 실행 - 공지조회, 작성, 수정, 삭제 ( 관리자 계정 )
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/c6a39715-0bca-47a4-9021-5d500b21dad1/notice1.gif?id=3774fd30-f660-404b-bb78-edc3440306dd&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703721600000&signature=ZhpLatd6YG7ysOVmX7DBOjcOnChvIVlYhhTKdcuqHgE&downloadName=notice1.gif" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/notice1.gif" width="900">
 
 🌟 실행 - 검색
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/890f2fcb-5a17-494e-a685-1540d2dfc794/notice2.gif?id=0d7320cd-f4a9-4347-8483-6183d9c0cfa8&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703721600000&signature=flQx0aBFhfad1JoavRmWc9tyQviJydiDa9RDuMPTgnc&downloadName=notice2.gif" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/notice2.gif" width="900">
 
 ✏️ 공지사항 조회는 누구나 할 수 있으나 공지사항 게시판 작성, 수정, 삭제는 관리자만 가능합니다.<br>
 ✏️ 찾고자 하는 공지글의 글번호, 제목, 작성자 아이디로 검색이 가능합니다. <br>
@@ -279,15 +279,15 @@
 ### ❓ QnA 게시판
 🌟 QnA 게시판 페이지입니다. 
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/6338dacf-7b60-4def-869c-38b3ab86fb6c/qna1.png?id=8c37e029-ca52-4ff7-b1c3-a4ea3127fd69&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703721600000&signature=Z2unOBWD9k2LImHjz4oE6tCr36MPZbQT8frJ1_8FAyM&downloadName=qna1.png" width="900">  
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/qna1.png" width="900">  
 
 🌟 실행 - 질문 조회, 작성, 수정, 삭제, 검색 ( 회원 계정 )
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/dd696ea3-a822-4126-af01-8146502b0ca5/qna2.gif?id=d8216ba0-5a30-47e1-9a61-42942cab8369&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703721600000&signature=qIV5KyXZVrD-4JASIPwP8Ol1Ro59CLnqC5m--D83n7E&downloadName=qna2.gif" width="900">  
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/qna2.gif" width="900">  
 
 🌟 실행 - 답변 등록, 삭제 ( 관리자 계정 )
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/0b0648b8-ba62-4165-9b66-3760994e1b61/qna3.gif?id=956e2bf4-d75b-429b-979c-d6beb7ace89a&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703721600000&signature=3tJ1mkVrj8-kKj2oAkQocWWsezSt8AHVlskfWoGAozs&downloadName=qna3.gif" width="900">  
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/qna3.gif" width="900">  
 
 ✏️ 일반 회원이라면 조회 및 작성이 가능하며 본인 글인 경우 수정, 삭제도 가능합니다.<br>
 ✏️ 작성자의 아이디는 일부 *처리가 되어 작성자의 아이디가 일부만 보이도록 하였습니다.  <br>
