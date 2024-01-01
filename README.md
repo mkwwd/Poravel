@@ -237,7 +237,7 @@
 🌟 Memory를 작성하는 페이지입니다. <br>
 🌟 PhotoBook의 가장 마지막에 비어있는 폴라로이드를 누르거나 사이드바의 등록하기를 클릭하면 Memory를 공유할 수 있습니다.
 
-<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/memory.gif" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/memory-add.gif" width="900">
 
 🌟 로그인 전/ 로그인 후 마지막 폴라로이드변화
 
