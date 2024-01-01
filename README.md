@@ -79,26 +79,26 @@
 
 ## 5️⃣ 설계 산출물
 ### ERD [🔗Link](https://www.erdcloud.com/d/QycMXTZ4XjDRxMhCd)
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/1770bf8f-086e-47a8-a4c1-4d21bee8dad4/Untitled.png?id=55f00106-8b13-4f14-96a9-aaf848971abb&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703714400000&signature=jZSgyrNhM5SYkPTFfXgHfiUVbNFqpKZt5a4WYem4WB8&downloadName=Untitled.png" width="800">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/ERD.png" width="800">
 <br>
 
 ### Use Case [🔗Link](https://app.diagrams.net/#G1CdpXz7Za8EWyvoZVli5oD4wuxmdHhaiR)
-<img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa9e95446-d49f-4247-b0b1-e1e67493883e%2F55e07e57-216d-45ed-a294-403ce371d5e0%2FUntitled.png?table=block&id=2562c188-84a5-44de-b092-87bfccf1d7ac&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&width=1730&userId=2e0b4d86-2376-4371-bbfd-ca67c8f241de&cache=v2" width="800">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/UseCase.png" width="800">
 <br>
 
 ### Mockup Page [🔗Link](https://www.figma.com/file/WZJikB19t1QMi5FE34o6SE/Trip?type=design&node-id=0-1&mode=design)
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/248e068a-c86a-4477-9b47-49a27a495da0/figma.png?id=d6344c14-d9ae-4130-91f8-67fd8d9c18bb&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703714400000&signature=vG58_PaUiHzbhlOYBDnl3wEPfyDqVgc_tUtNZzykHZI&downloadName=figma.png" width="800">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/figma.png" width="800">
 <br><br>
 
 ## 6️⃣ 주요기능
-![image](https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/%EA%B8%B0%EB%8A%A5%EB%AA%85%EC%84%B8%EC%84%9C.png)
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/%EA%B8%B0%EB%8A%A5%EB%AA%85%EC%84%B8%EC%84%9C.png" width="800">
 <br><br>
 
 ## 7️⃣ 화면 구성
 ## 🛠️ 메인 🛠️
 🌟 메인 페이지입니다. 감성을 자극하는 사진 및 문구와 사용자들이 공유한 사진 및 정보를 보여주는 페이지로 구성되어 있습니다.
  
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/796e079b-51d1-4de0-9f48-c1d77d3141a3/main.gif?id=b68b2777-7ab6-495b-b3ac-11eedbdc790e&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703714400000&signature=vTXOnbTjl7NjpeuuzXqJKrQUKXmIgwZ18HW0-EOaf-U&downloadName=main.gif" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/main.gif" width="900">
 
 ✏️ Memory페이지에 등록된 사진 중 조회수가 높은 6개의 사진을 보여줍니다. <br>
 ✏️ 사진을 누르면 사진 뒷면에서 간략한 정보를 볼 수 있습니다. <br>
@@ -110,13 +110,13 @@
 ### 🔒 로그인
 🌟 로그인 페이지입니다. 아이디, 비밀번호 입력란과 아이디/비밀번호 찾기, 회원가입 링크로 구성되어 있습니다.
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/5be80c7f-5408-4d17-98c9-28038a67107e/Untitled.png?id=ec81bee1-cd2a-43eb-b2cf-337d2bcbc2eb&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703714400000&signature=cj-It47idQMeobowuViE2d2jbAj6lY4sM9UOn3oN5rg&downloadName=Untitled.png" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/login.png" width="900">
 <br>
 
 ### 🔑 아이디 찾기
 🌟 아이디 찾기 페이지입니다. 
   
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/2e32e4ec-2075-438a-b8e0-cff534ec26b0/idfind.gif?id=60d7f79b-14e5-44ef-9ef3-db7e12cfb86d&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703714400000&signature=uCfu4fS0PRrr3M2Xe-i3e1Ys8g8FLyzCnqB-8eIFzIA&downloadName=idfind.gif" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/idfind.gif" width="900">
 
 ✏️ 회원의 이름과 이메일을 입력하면 아이디를 찾을 수 있습니다. <br>
 <br>
@@ -124,9 +124,9 @@
 ### 🔑 비밀번호 찾기
 🌟 비밀번호 찾기 페이지입니다. 
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/07e1e94c-15b6-470f-af16-0f19b85d17ae/Untitled.png?id=0c820737-3da8-4dc8-8586-7edad297ed4c&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703714400000&signature=urZlb5C6tlU_yjkeq-S_4YB6QtRIhRkuuZ7ub3gyy7Q&downloadName=Untitled.png" width="900">
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/68d4afde-efdd-480f-a3c0-149a900053cc/Untitled.png?id=8f3c0ebd-2908-4c78-9ed9-6f4e6ec4eb0a&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703714400000&signature=PUEdanJ8Ug3OVo0_RigoMj3Ab3dOTAyvTS6oDsH2WGM&downloadName=Untitled.png" width="900">
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/d24b3caf-3c04-43bc-8bd8-e950dc05b044/Untitled.png?id=9ee59c26-1e60-4388-97c3-c49074cf589f&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703714400000&signature=aGXt_jZKmGxEuZjdVN4yMi4mJYdc4SCfDI6OaYRYGOE&downloadName=Untitled.png" width="400">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/passfind1.png" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/passfind2.png" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/passfind3.png" width="400">
 
 ✏️ 회원의 아이디와 이메일을 입력하면 비밀번호를 이메일로 발송하여 줍니다. <br>
 <br>
@@ -134,11 +134,11 @@
 ### 🔒 회원가입 
 🌟 회원가입 페이지입니다.
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/bfc5a469-f63f-4cb8-b711-74627eeffb08/join.png?id=3fd0998c-1057-44d6-93e1-da155bea93a5&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703714400000&signature=lIVTaSzjSyYs7AZYcujl8fQ023SaW4ObxStLXTiON84&downloadName=join.png" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/join.png" width="900">
 
 🌟 실행 - 회원가입
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/bb0a4604-44fb-475e-bafc-da5c178afe66/join.gif?id=410bbe93-6156-402c-8874-12d556a99e25&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703714400000&signature=raHE1xXx2InxN78S2EnZ2GP8B0gLVqdvIUsCQWpC4VU&downloadName=join.gif" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/join.gif" width="900">
 
 
 ✏️ 아이디의 유효성 검사, 중복여부를 체크합니다. <br>
@@ -150,11 +150,11 @@
 ### 😊 마이페이지
 🌟 마이페이지입니다. MyProfie, Bookmark, Memory로 구성되어 있습니다. <br>
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/6099c33e-819f-46b2-b9dd-3716a0acfb7c/screencapture-localhost-5173-mypage-2023-12-27-06_00_22.png?id=8e84b473-6635-406f-93eb-94cbaf62336e&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703714400000&signature=0aOVvmghqqeRaUEmglPOYFqzNOyZPjrbHr2-HvRPj3o&downloadName=screencapture-localhost-5173-mypage-2023-12-27-06_00_22.png" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/mypage.png" width="900">
 
 🌟 실행 - Bookmark, Memory 삭제
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/4aebb878-f31b-47d0-b8b9-85e3fe93f3bd/ezgif.com-video-to-gif-converter_(4).gif?id=a384f2c3-4378-452f-bb55-46a195e8deba&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703714400000&signature=phZFG39_KafKPMImTcW13-USEFcN58lbdPp5hCXpk0A&downloadName=ezgif.com-video-to-gif-converter+%284%29.gif" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/mypage-delete.gif" width="900">
 
 ✏️ 이름, 번호, 이메일 등 간단한 회원정보를 볼 수 있습니다.. <br>
 ✏️ 여행 정보 페이지에서 장소를 저장하면 Bookmark 영역에서 저장한 여행지를 볼 수 있으며, 누르면 상세페이지로 이동합니다.  <br>
@@ -166,11 +166,11 @@
 ### 😎 회원정보 수정
 🌟 회원정보수정 페이지입니다. 회원 상세 정보 조회, 수정, 탈퇴가 가능힙니다.
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/22d67182-f310-4aca-8abe-9c974309e5f7/screencapture-localhost-5173-mypageEdit-2023-12-20-19_22_55.png?id=1f9c5d77-4bd3-4c7b-bc95-bd97f89049a8&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703714400000&signature=hdYbi-wgo_5CiSvHd_4R0vfjHN2CPgOhe0482220vPI&downloadName=screencapture-localhost-5173-mypageEdit-2023-12-20-19_22_55.png" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/mypage-detail.png" width="900">
 
 🌟 실행 - 프로필 변경 및 정보수정
 
-<img src="https://file.notion.so/f/f/a9e95446-d49f-4247-b0b1-e1e67493883e/d60beb46-07b6-4207-8c43-9ba2807a5fed/mypage.gif?id=dfd411ce-db4c-480c-b3b9-f3797a990631&table=block&spaceId=a9e95446-d49f-4247-b0b1-e1e67493883e&expirationTimestamp=1703714400000&signature=SkLQz7jwy_x1zLuyeEY3UI_XT4vn_VsRCMQGW5iavD8&downloadName=mypage.gif" width="900">
+<img src="https://github.com/koreamarin/Poravel/blob/main/%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4/mypage-edit.gif" width="900">
 
 ✏️ Myprofile의 '내 정보 수정' 버튼을 누르면 비밀번호 확인을 하고 수정페이지로 이동합니다. <br>
 ✏️ 프로필 사진 변경이 가능합니다. <br>
